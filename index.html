@@ -7,39 +7,42 @@
     <style>
         body { font-family: sans-serif; padding: 20px; background: #f4f4f9; }
         .container { max-width: 500px; margin: auto; }
-        input { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; box-sizing: border-box; }
+        input { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; box-sizing: border-box; font-size: 16px; }
         #lista { margin-top: 10px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
         .item { padding: 15px; border-bottom: 1px solid #eee; cursor: pointer; display: block; text-decoration: none; color: #333; }
         .item:last-child { border-bottom: none; }
         .item:hover { background: #f0f0f0; }
+        h2 { text-align: center; color: #0056b3; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h2>Navegador de Radiobases</h2>
-    <input type="text" id="buscador" placeholder="Escribe el nombre de la base..." onkeyup="filtrar()">
+    <input type="text" id="buscador" placeholder="Buscar base (ej: 24deseptiembre)..." onkeyup="filtrar()">
     <div id="lista"></div>
 </div>
 
 <script>
     let radiobases = [];
 
-    // Cargar datos desde el JSON
+    // Cargamos tu archivo específico: radiobases.json
     fetch('radiobases.json')
         .then(response => response.json())
         .then(data => {
             radiobases = data;
             mostrarBases(radiobases);
-        });
+        })
+        .catch(error => console.error('Error cargando el JSON:', error));
 
     function mostrarBases(lista) {
         const contenedor = document.getElementById('lista');
+        // Usamos ["ubicación"] con tilde para que coincida exactamente con tu JSON
         contenedor.innerHTML = lista.map(base => `
-            <a class="item" onclick="navegar('${base.ubicacion}')">
+            <div class="item" onclick="navegar('${base["ubicación"]}')">
                 <strong>${base.nombre}</strong><br>
-                <small>${base.ubicacion}</small>
-            </a>
+                <small style="color: #666;">${base["ubicación"]}</small>
+            </div>
         `).join('');
     }
 
@@ -50,8 +53,9 @@
     }
 
     function navegar(coordenadas) {
-        // Formato universal para Google Maps
-        const url = `[https://www.google.com/maps/dir/?api=1&destination=$](https://www.google.com/maps/dir/?api=1&destination=$){coordenadas}`;
+        // Limpiamos espacios por si acaso y abrimos Google Maps
+        const coordsLimpias = coordenadas.trim();
+        const url = `https://www.google.com/maps/dir/?api=1&destination=${coordsLimpias}`;
         window.open(url, '_blank');
     }
 </script>
