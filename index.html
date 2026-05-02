@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Radiobases</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; background: #f4f4f9; }
+        .container { max-width: 500px; margin: auto; }
+        input { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; box-sizing: border-box; }
+        #lista { margin-top: 10px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .item { padding: 15px; border-bottom: 1px solid #eee; cursor: pointer; display: block; text-decoration: none; color: #333; }
+        .item:last-child { border-bottom: none; }
+        .item:hover { background: #f0f0f0; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Navegador de Radiobases</h2>
+    <input type="text" id="buscador" placeholder="Escribe el nombre de la base..." onkeyup="filtrar()">
+    <div id="lista"></div>
+</div>
+
+<script>
+    let radiobases = [];
+
+    // Cargar datos desde el JSON
+    fetch('datos.json')
+        .then(response => response.json())
+        .then(data => {
+            radiobases = data;
+            mostrarBases(radiobases);
+        });
+
+    function mostrarBases(lista) {
+        const contenedor = document.getElementById('lista');
+        contenedor.innerHTML = lista.map(base => `
+            <a class="item" onclick="navegar('${base.ubicacion}')">
+                <strong>${base.nombre}</strong><br>
+                <small>${base.ubicacion}</small>
+            </a>
+        `).join('');
+    }
+
+    function filtrar() {
+        const texto = document.getElementById('buscador').value.toLowerCase();
+        const filtradas = radiobases.filter(b => b.nombre.toLowerCase().includes(texto));
+        mostrarBases(filtradas);
+    }
+
+    function navegar(coordenadas) {
+        // Formato universal para Google Maps
+        const url = `[https://www.google.com/maps/dir/?api=1&destination=$](https://www.google.com/maps/dir/?api=1&destination=$){coordenadas}`;
+        window.open(url, '_blank');
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,5274 @@
+[
+  {
+    "nombre": "24deseptiembre",
+    "ubicación": "-3.2648287393,-79.93620928"
+  },
+  {
+    "nombre": "27_de_febrero",
+    "ubicación": "-2.9130862991,-79.0074054376"
+  },
+  {
+    "nombre": "3cientos9",
+    "ubicación": "-0.9736469647,-80.7115363699"
+  },
+  {
+    "nombre": "4novisur",
+    "ubicación": "-0.9656615221,-80.7131194168"
+  },
+  {
+    "nombre": "9_de_mayo",
+    "ubicación": "-3.2669206106,-79.9563209765"
+  },
+  {
+    "nombre": "aandrade",
+    "ubicación": "-2.8854864094,-79.0158380054"
+  },
+  {
+    "nombre": "abad",
+    "ubicación": "-2.1789089926,-79.8907495838"
+  },
+  {
+    "nombre": "abelgilbert",
+    "ubicación": "-2.1696327359,-79.8342498051"
+  },
+  {
+    "nombre": "abermeo",
+    "ubicación": "-1.0586296201,-80.4644615773"
+  },
+  {
+    "nombre": "acacias",
+    "ubicación": "-2.2249067139,-79.906171962"
+  },
+  {
+    "nombre": "achiote",
+    "ubicación": "-1.2367762422,-79.771789552"
+  },
+  {
+    "nombre": "acuamarina",
+    "ubicación": "-2.1542079902,-79.8612009203"
+  },
+  {
+    "nombre": "acuarela",
+    "ubicación": "-2.132022859,-79.8868828777"
+  },
+  {
+    "nombre": "acuarelario",
+    "ubicación": "-2.1332526797,-79.882445169"
+  },
+  {
+    "nombre": "acueva",
+    "ubicación": "-2.9115334334,-79.0156004944"
+  },
+  {
+    "nombre": "adace",
+    "ubicación": "-2.1610743205,-79.8908555211"
+  },
+  {
+    "nombre": "adillon",
+    "ubicación": "-2.2098919389,-79.9157159383"
+  },
+  {
+    "nombre": "aerolmedo",
+    "ubicación": "-2.1474383848,-79.88681198"
+  },
+  {
+    "nombre": "aeropuerto",
+    "ubicación": "-2.1474689973,-79.883573838"
+  },
+  {
+    "nombre": "aeropuerto_1",
+    "ubicación": "-1.044857215,-80.463751005"
+  },
+  {
+    "nombre": "agrosa",
+    "ubicación": "-2.1141874182,-79.9333644017"
+  },
+  {
+    "nombre": "aguas",
+    "ubicación": "-2.1530957045,-79.9100648292"
+  },
+  {
+    "nombre": "aguas2",
+    "ubicación": "-2.161090742,-79.9120132055"
+  },
+  {
+    "nombre": "aguirre",
+    "ubicación": "-2.1928415067,-79.8868699214"
+  },
+  {
+    "nombre": "airesbatan",
+    "ubicación": "-2.0873786723,-79.865611353"
+  },
+  {
+    "nombre": "alamor",
+    "ubicación": "-4.0095689476,-80.0197548555"
+  },
+  {
+    "nombre": "alamorsur",
+    "ubicación": "-4.0188661927,-80.020563738"
+  },
+  {
+    "nombre": "albanborja",
+    "ubicación": "-2.1685097593,-79.9157539842"
+  },
+  {
+    "nombre": "albatros",
+    "ubicación": "-2.1702964378,-79.8953631832"
+  },
+  {
+    "nombre": "albodecima",
+    "ubicación": "-2.1359413533,-79.9117829766"
+  },
+  {
+    "nombre": "alborada",
+    "ubicación": "-2.1418744431,-79.8961493145"
+  },
+  {
+    "nombre": "alborada2",
+    "ubicación": "-2.1362042172,-79.9003458647"
+  },
+  {
+    "nombre": "albotrece",
+    "ubicación": "-2.1241800906,-79.9044404046"
+  },
+  {
+    "nombre": "alcomp",
+    "ubicación": "-2.1186319924,-79.9401906985"
+  },
+  {
+    "nombre": "alegria",
+    "ubicación": "-2.1223109755,-79.9260865169"
+  },
+  {
+    "nombre": "almacenera",
+    "ubicación": "-2.2470468257,-79.8946955302"
+  },
+  {
+    "nombre": "almeria",
+    "ubicación": "-2.1140467425,-79.8712188823"
+  },
+  {
+    "nombre": "altagracia",
+    "ubicación": "-0.966791516,-80.6921919686"
+  },
+  {
+    "nombre": "analucia",
+    "ubicación": "-2.4034818264,-80.4195852884"
+  },
+  {
+    "nombre": "arcadia",
+    "ubicación": "-2.1889285919,-80.0056913481"
+  },
+  {
+    "nombre": "arcatmarengo",
+    "ubicación": "-2.1452561475,-79.9164137299"
+  },
+  {
+    "nombre": "arcatoni",
+    "ubicación": "-2.0626197799,-79.9225692378"
+  },
+  {
+    "nombre": "arena",
+    "ubicación": "-2.2238041872,-80.9330742589"
+  },
+  {
+    "nombre": "arenal",
+    "ubicación": "-2.9104926096,-79.0350452955"
+  },
+  {
+    "nombre": "arenillas",
+    "ubicación": "-3.5564488678,-80.0623511334"
+  },
+  {
+    "nombre": "areninor",
+    "ubicación": "-3.5524776621,-80.0747056308"
+  },
+  {
+    "nombre": "arenisur",
+    "ubicación": "-3.5672051049,-80.0619394746"
+  },
+  {
+    "nombre": "arenisur",
+    "ubicación": "-3.5672360655,-80.0618974359"
+  },
+  {
+    "nombre": "asamblea",
+    "ubicación": "-1.0570249046,-80.6615166859"
+  },
+  {
+    "nombre": "astillero",
+    "ubicación": "-2.221787502,-79.8889463521"
+  },
+  {
+    "nombre": "astillero",
+    "ubicación": "-2.1202001328,-79.8721714485"
+  },
+  {
+    "nombre": "astilleros2",
+    "ubicación": "-2.2182345347,-79.8874994502"
+  },
+  {
+    "nombre": "atarazana",
+    "ubicación": "-2.1729799366,-79.8831690502"
+  },
+  {
+    "nombre": "aurelia",
+    "ubicación": "-2.9068266517,-79.0210851496"
+  },
+  {
+    "nombre": "aurora",
+    "ubicación": "-2.0484384616,-79.8666949603"
+  },
+  {
+    "nombre": "aurora2",
+    "ubicación": "-2.0486861201,-79.8761262846"
+  },
+  {
+    "nombre": "autolasa",
+    "ubicación": "-2.1718685159,-79.8781107849"
+  },
+  {
+    "nombre": "av109",
+    "ubicación": "-0.9578929549,-80.7025794082"
+  },
+  {
+    "nombre": "avamericacad",
+    "ubicación": "-2.167394642,-79.8922915745"
+  },
+  {
+    "nombre": "avedecima",
+    "ubicación": "-2.2578398554,-79.8882723394"
+  },
+  {
+    "nombre": "ayacucho",
+    "ubicación": "-2.2043574738,-79.8898470175"
+  },
+  {
+    "nombre": "ayangue",
+    "ubicación": "-1.9795512094,-80.752840812"
+  },
+  {
+    "nombre": "azogues",
+    "ubicación": "-2.7399825322,-78.8289092999"
+  },
+  {
+    "nombre": "azogues_oeste",
+    "ubicación": "-2.7405686915,-78.8526229295"
+  },
+  {
+    "nombre": "azogueste",
+    "ubicación": "-2.7437734883,-78.8429498685"
+  },
+  {
+    "nombre": "azoguezcen",
+    "ubicación": "-2.7403014417,-78.8458978817"
+  },
+  {
+    "nombre": "babaandes",
+    "ubicación": "-1.8122489817,-79.546234865"
+  },
+  {
+    "nombre": "babaandes",
+    "ubicación": "-1.8122489817,-79.546234865"
+  },
+  {
+    "nombre": "babacenor",
+    "ubicación": "-1.7993111825,-79.5326591389"
+  },
+  {
+    "nombre": "babacenor",
+    "ubicación": "-1.7993111825,-79.5326591389"
+  },
+  {
+    "nombre": "babacensur",
+    "ubicación": "-1.7990973566,-79.53013037"
+  },
+  {
+    "nombre": "babacensur",
+    "ubicación": "-1.7990973566,-79.53013037"
+  },
+  {
+    "nombre": "babacentro",
+    "ubicación": "-1.8003912698,-79.5373667036"
+  },
+  {
+    "nombre": "babacentro",
+    "ubicación": "-1.8003912698,-79.5373667036"
+  },
+  {
+    "nombre": "babaflores",
+    "ubicación": "-1.8068174588,-79.5313129571"
+  },
+  {
+    "nombre": "babaflores",
+    "ubicación": "-1.8068174588,-79.5313129571"
+  },
+  {
+    "nombre": "babahoyo",
+    "ubicación": "-1.79867643,-79.51875955"
+  },
+  {
+    "nombre": "babahoyo",
+    "ubicación": "-1.79867643,-79.51875955"
+  },
+  {
+    "nombre": "babahoyosur",
+    "ubicación": "-1.8035822372,-79.5359273143"
+  },
+  {
+    "nombre": "babahoyosur",
+    "ubicación": "-1.8035822372,-79.5359273143"
+  },
+  {
+    "nombre": "babajujan",
+    "ubicación": "-1.8345266829,-79.5452788556"
+  },
+  {
+    "nombre": "babajujan",
+    "ubicación": "-1.8345266829,-79.5452788556"
+  },
+  {
+    "nombre": "babamerc",
+    "ubicación": "-1.811570323,-79.50783966"
+  },
+  {
+    "nombre": "babamerc",
+    "ubicación": "-1.811570323,-79.50783966"
+  },
+  {
+    "nombre": "babaoeste",
+    "ubicación": "-1.7934042769,-79.5380522119"
+  },
+  {
+    "nombre": "babaoeste",
+    "ubicación": "-1.7934042769,-79.5380522119"
+  },
+  {
+    "nombre": "babaunion",
+    "ubicación": "-1.8021941048,-79.5131169415"
+  },
+  {
+    "nombre": "babaunion",
+    "ubicación": "-1.8021941048,-79.5131169415"
+  },
+  {
+    "nombre": "bahia_laenen",
+    "ubicación": "-0.6012222224,-80.423916667"
+  },
+  {
+    "nombre": "bahia3g",
+    "ubicación": "-0.6132191228,-80.4248118513"
+  },
+  {
+    "nombre": "bahiacen",
+    "ubicación": "-0.6068473533,-80.426551161"
+  },
+  {
+    "nombre": "bahiacen",
+    "ubicación": "-0.6233448789,-80.426275614"
+  },
+  {
+    "nombre": "bahiamall",
+    "ubicación": "-2.1976815156,-79.8819054443"
+  },
+  {
+    "nombre": "bahiaoeste",
+    "ubicación": "-0.6037917138,-80.4306800387"
+  },
+  {
+    "nombre": "bahiasure",
+    "ubicación": "-0.6547140448,-80.4041805404"
+  },
+  {
+    "nombre": "balandra",
+    "ubicación": "-2.1648871155,-79.9449044852"
+  },
+  {
+    "nombre": "balaocity",
+    "ubicación": "-2.9087989959,-79.8157417814"
+  },
+  {
+    "nombre": "balcon_lojano",
+    "ubicación": "-3.9974450872,-79.2104781029"
+  },
+  {
+    "nombre": "ballenita",
+    "ubicación": "-2.2094260408,-80.8618485736"
+  },
+  {
+    "nombre": "ballenitacen",
+    "ubicación": "-2.199692,-80.869171"
+  },
+  {
+    "nombre": "balsamos",
+    "ubicación": "-2.1628627496,-79.9165715788"
+  },
+  {
+    "nombre": "balsamos2",
+    "ubicación": "-2.1667117768,-79.9108629271"
+  },
+  {
+    "nombre": "balzar",
+    "ubicación": "-1.3666800661,-79.9040542684"
+  },
+  {
+    "nombre": "balzareste",
+    "ubicación": "-1.3634332365,-79.902605743"
+  },
+  {
+    "nombre": "balzarnorte",
+    "ubicación": "-1.3626268053,-79.9052725485"
+  },
+  {
+    "nombre": "balzarsur",
+    "ubicación": "-1.3772731193,-79.9081586335"
+  },
+  {
+    "nombre": "bañoscuenca",
+    "ubicación": "-2.9254164472,-79.0635327109"
+  },
+  {
+    "nombre": "baquerizo",
+    "ubicación": "-2.1319955943,-79.9018331409"
+  },
+  {
+    "nombre": "baquerizo",
+    "ubicación": "-2.1319955943,-79.9018331409"
+  },
+  {
+    "nombre": "barbaeste",
+    "ubicación": "-0.9530273252,-80.7344478986"
+  },
+  {
+    "nombre": "barbaoest",
+    "ubicación": "-0.955117143,-80.749246283"
+  },
+  {
+    "nombre": "barbasco",
+    "ubicación": "-1.677266494,-79.9875615108"
+  },
+  {
+    "nombre": "barbasquillo",
+    "ubicación": "-0.9529408461,-80.7435483901"
+  },
+  {
+    "nombre": "barceeste",
+    "ubicación": "-2.1857626605,-79.9240054923"
+  },
+  {
+    "nombre": "barcelo",
+    "ubicación": "-2.2053829956,-80.9619807153"
+  },
+  {
+    "nombre": "barcelona",
+    "ubicación": "-2.1865724263,-79.9280747144"
+  },
+  {
+    "nombre": "barceoeste",
+    "ubicación": "-2.1865652399,-79.9258070978"
+  },
+  {
+    "nombre": "baroja",
+    "ubicación": "-2.9121812614,-79.0245391804"
+  },
+  {
+    "nombre": "barriolindo",
+    "ubicación": "-1.8055241521,-79.5408878044"
+  },
+  {
+    "nombre": "barriolindo",
+    "ubicación": "-1.8055241521,-79.5408878044"
+  },
+  {
+    "nombre": "basesanedu",
+    "ubicación": "-2.1943005124,-79.9163462793"
+  },
+  {
+    "nombre": "bastion",
+    "ubicación": "-2.1013341167,-79.9413721596"
+  },
+  {
+    "nombre": "bastionmer",
+    "ubicación": "-2.1007843113,-79.9258128091"
+  },
+  {
+    "nombre": "bastionpop",
+    "ubicación": "-2.1181241586,-79.9692306551"
+  },
+  {
+    "nombre": "bastionpopdos",
+    "ubicación": "-2.1130162097,-79.9643457111"
+  },
+  {
+    "nombre": "batallnor",
+    "ubicación": "-2.2208777174,-79.9372215025"
+  },
+  {
+    "nombre": "batallon",
+    "ubicación": "-2.2262116017,-79.9432617039"
+  },
+  {
+    "nombre": "batalloneste",
+    "ubicación": "-2.2255305861,-79.9371894987"
+  },
+  {
+    "nombre": "batallonsur",
+    "ubicación": "-2.2313672365,-79.943487107"
+  },
+  {
+    "nombre": "bbarreiro",
+    "ubicación": "-1.7944054683,-79.5293008027"
+  },
+  {
+    "nombre": "bbarreiro",
+    "ubicación": "-1.7944054683,-79.5293008027"
+  },
+  {
+    "nombre": "bcarrion",
+    "ubicación": "-1.065531992,-80.444900848"
+  },
+  {
+    "nombre": "bcasttms",
+    "ubicación": "-2.1376976313,-79.8673697947"
+  },
+  {
+    "nombre": "bco_machala",
+    "ubicación": "-2.1913078232,-79.8810735309"
+  },
+  {
+    "nombre": "belen",
+    "ubicación": "-2.1222825435,-79.9112564299"
+  },
+  {
+    "nombre": "bellagye",
+    "ubicación": "-2.1914735472,-79.9101673265"
+  },
+  {
+    "nombre": "bellavista2",
+    "ubicación": "-2.1863892167,-79.9159257051"
+  },
+  {
+    "nombre": "belohorizonte",
+    "ubicación": "-2.1882112309,-79.9776154573"
+  },
+  {
+    "nombre": "bemani",
+    "ubicación": "-2.8485818812,-78.9914373937"
+  },
+  {
+    "nombre": "berlin",
+    "ubicación": "-2.1729941982,-79.9131356331"
+  },
+  {
+    "nombre": "bfebypass",
+    "ubicación": "-0.8839833901,-79.495717113"
+  },
+  {
+    "nombre": "biblioteca",
+    "ubicación": "-2.1962441961,-79.8842424017"
+  },
+  {
+    "nombre": "binfa",
+    "ubicación": "-2.1553635169,-79.8778137621"
+  },
+  {
+    "nombre": "blaureles",
+    "ubicación": "-2.2238684211,-80.8524274621"
+  },
+  {
+    "nombre": "bluetowers",
+    "ubicación": "-2.1668385639,-79.896087533"
+  },
+  {
+    "nombre": "bnafenor",
+    "ubicación": "-0.8752239088,-79.4910107041"
+  },
+  {
+    "nombre": "bolivar",
+    "ubicación": "-2.1969148545,-79.8917141348"
+  },
+  {
+    "nombre": "bolivariana",
+    "ubicación": "-2.1818638495,-79.8958023001"
+  },
+  {
+    "nombre": "boloncentro",
+    "ubicación": "-2.171239714,-79.8872952644"
+  },
+  {
+    "nombre": "boloña",
+    "ubicación": "-2.1717093518,-79.8975512024"
+  },
+  {
+    "nombre": "bosques_de_la_costa",
+    "ubicación": "-2.1839735522,-79.9727432369"
+  },
+  {
+    "nombre": "boulevard",
+    "ubicación": "-2.190410624,-79.8846503875"
+  },
+  {
+    "nombre": "brahama",
+    "ubicación": "-2.0808900659,-79.9508799019"
+  },
+  {
+    "nombre": "brisasrio",
+    "ubicación": "-2.1362922531,-79.8892536374"
+  },
+  {
+    "nombre": "bristol",
+    "ubicación": "-2.1104364107,-79.9418791589"
+  },
+  {
+    "nombre": "brosales",
+    "ubicación": "-2.1508424072,-79.876240774"
+  },
+  {
+    "nombre": "buenafe",
+    "ubicación": "-0.8875453997,-79.4911875265"
+  },
+  {
+    "nombre": "buenafecen",
+    "ubicación": "-0.8927956416,-79.4903016624"
+  },
+  {
+    "nombre": "buenafecity",
+    "ubicación": "-0.8973713556,-79.4915546135"
+  },
+  {
+    "nombre": "buenafeeste",
+    "ubicación": "-0.895582185,-79.484473237"
+  },
+  {
+    "nombre": "buenaventura",
+    "ubicación": "-2.1183496976,-79.8720038407"
+  },
+  {
+    "nombre": "bueran",
+    "ubicación": "-2.6085672968,-78.9312132917"
+  },
+  {
+    "nombre": "bulan",
+    "ubicación": "-2.7354287684,-78.7683920864"
+  },
+  {
+    "nombre": "bypass",
+    "ubicación": "-0.698377,-80.072202"
+  },
+  {
+    "nombre": "calceta",
+    "ubicación": "-0.8444116772,-80.1588843531"
+  },
+  {
+    "nombre": "calcetacity",
+    "ubicación": "-0.8472439775,-80.1642697661"
+  },
+  {
+    "nombre": "calcetanor",
+    "ubicación": "-0.84427771,-80.171056"
+  },
+  {
+    "nombre": "calderon",
+    "ubicación": "-3.2589100992,-79.9750186979"
+  },
+  {
+    "nombre": "calicuchi",
+    "ubicación": "-2.2005281153,-79.9192457005"
+  },
+  {
+    "nombre": "california",
+    "ubicación": "-1.0601010421,-80.4720973265"
+  },
+  {
+    "nombre": "california_2",
+    "ubicación": "-1.056359302,-80.470098298"
+  },
+  {
+    "nombre": "camara",
+    "ubicación": "-2.1332609805,-79.9185264588"
+  },
+  {
+    "nombre": "campochino",
+    "ubicación": "-2.0624122441,-79.9474273902"
+  },
+  {
+    "nombre": "campochino2",
+    "ubicación": "-2.0639915198,-79.9530900334"
+  },
+  {
+    "nombre": "campozano",
+    "ubicación": "-1.5890969397,-80.3920317201"
+  },
+  {
+    "nombre": "canoa",
+    "ubicación": "-0.465229003,-80.4509960035"
+  },
+  {
+    "nombre": "cantones",
+    "ubicación": "-2.1478025699,-79.8933807874"
+  },
+  {
+    "nombre": "canuto",
+    "ubicación": "-0.8092235996,-80.1349779625"
+  },
+  {
+    "nombre": "capaes",
+    "ubicación": "-2.1969993404,-80.8497626459"
+  },
+  {
+    "nombre": "capeira",
+    "ubicación": "-1.9947797196,-79.9769076737"
+  },
+  {
+    "nombre": "capwell",
+    "ubicación": "-2.2071908641,-79.8957193182"
+  },
+  {
+    "nombre": "caravana",
+    "ubicación": "-2.148415956,-79.9086559433"
+  },
+  {
+    "nombre": "carchi",
+    "ubicación": "-2.1955829183,-79.8982245655"
+  },
+  {
+    "nombre": "cariamanciu",
+    "ubicación": "-4.3287256466,-79.5616847152"
+  },
+  {
+    "nombre": "cariamanga",
+    "ubicación": "-4.3130895038,-79.5547858243"
+  },
+  {
+    "nombre": "carrera",
+    "ubicación": "-2.2148195894,-79.9038298556"
+  },
+  {
+    "nombre": "castelago",
+    "ubicación": "-2.0935029543,-79.8731512047"
+  },
+  {
+    "nombre": "catacocha",
+    "ubicación": "-4.0454450378,-79.6503642624"
+  },
+  {
+    "nombre": "catacochaciu",
+    "ubicación": "-4.0493526865,-79.6487974035"
+  },
+  {
+    "nombre": "catamayo",
+    "ubicación": "-3.9929987066,-79.3728565187"
+  },
+  {
+    "nombre": "catamayo_cp",
+    "ubicación": "-3.9991543087,-79.3530829484"
+  },
+  {
+    "nombre": "catamayo_new",
+    "ubicación": "-3.989085825,-79.3518945238"
+  },
+  {
+    "nombre": "catamayocen",
+    "ubicación": "-3.9875985606,-79.3586784691"
+  },
+  {
+    "nombre": "catamayocity",
+    "ubicación": "-3.9850404547,-79.358367988"
+  },
+  {
+    "nombre": "catolica",
+    "ubicación": "-2.1821357291,-79.9034108484"
+  },
+  {
+    "nombre": "catolica2",
+    "ubicación": "-2.1821710979,-79.9054246205"
+  },
+  {
+    "nombre": "cayetano",
+    "ubicación": "-3.9809355449,-79.2032785964"
+  },
+  {
+    "nombre": "cballen",
+    "ubicación": "-2.1943731161,-79.8885584701"
+  },
+  {
+    "nombre": "ccarmen",
+    "ubicación": "-2.1841396433,-79.8820956273"
+  },
+  {
+    "nombre": "cceleste",
+    "ubicación": "-2.077328342,-79.8532058266"
+  },
+  {
+    "nombre": "cceleste2",
+    "ubicación": "-2.0735770116,-79.8462832235"
+  },
+  {
+    "nombre": "ccelestenew2",
+    "ubicación": "-2.0725295272,-79.8406326912"
+  },
+  {
+    "nombre": "cchinodaule",
+    "ubicación": "-2.0235141261,-79.9522260794"
+  },
+  {
+    "nombre": "cchinoeste",
+    "ubicación": "-2.0561452052,-79.9538758181"
+  },
+  {
+    "nombre": "ccolonmi",
+    "ubicación": "-2.1397125555,-79.5942551237"
+  },
+  {
+    "nombre": "ccuni",
+    "ubicación": "-2.1942226284,-79.88299107"
+  },
+  {
+    "nombre": "cd_maestro",
+    "ubicación": "-2.0807801539,-79.9136034572"
+  },
+  {
+    "nombre": "cdagonzalez",
+    "ubicación": "-0.6932843516,-80.1008236561"
+  },
+  {
+    "nombre": "cdla_1ero_de_mayo",
+    "ubicación": "-1.039742789,-80.471166549"
+  },
+  {
+    "nombre": "cdla9deoctubre",
+    "ubicación": "-2.236247957,-79.8960843943"
+  },
+  {
+    "nombre": "cdlaguang",
+    "ubicación": "-2.2328615568,-79.909042249"
+  },
+  {
+    "nombre": "cdlamartha",
+    "ubicación": "-2.144683985,-79.921313939"
+  },
+  {
+    "nombre": "cdlamunicipal",
+    "ubicación": "-1.0141214261,-80.4668257059"
+  },
+  {
+    "nombre": "cdlaorquideas",
+    "ubicación": "-2.0924742474,-79.9163131912"
+  },
+  {
+    "nombre": "cdlarecreo3g",
+    "ubicación": "-2.1778658456,-79.8120626218"
+  },
+  {
+    "nombre": "cdlarosales",
+    "ubicación": "-1.003543081,-80.4668571"
+  },
+  {
+    "nombre": "cdlasanjose",
+    "ubicación": "-1.033021,-80.453821"
+  },
+  {
+    "nombre": "cdlaurden",
+    "ubicación": "-2.1445611821,-79.9025755614"
+  },
+  {
+    "nombre": "cdsnfelipe",
+    "ubicación": "-2.1358896492,-79.928455006"
+  },
+  {
+    "nombre": "cdvictoria",
+    "ubicación": "-1.9877854703,-79.9790735472"
+  },
+  {
+    "nombre": "cebollar",
+    "ubicación": "-2.8875366224,-79.0142782348"
+  },
+  {
+    "nombre": "cecilanor",
+    "ubicación": "-2.1375128898,-79.9447644976"
+  },
+  {
+    "nombre": "ceibos",
+    "ubicación": "-2.1735825802,-79.9391869736"
+  },
+  {
+    "nombre": "centenario",
+    "ubicación": "-2.2141760587,-79.8911910002"
+  },
+  {
+    "nombre": "centraletapa",
+    "ubicación": "-2.8973621746,-78.9882705971"
+  },
+  {
+    "nombre": "centro",
+    "ubicación": "-2.1970957731,-79.8844418736"
+  },
+  {
+    "nombre": "centroalcliente",
+    "ubicación": "-2.1732640766,-79.9072736505"
+  },
+  {
+    "nombre": "centrodearte",
+    "ubicación": "-2.1617342263,-79.925158187"
+  },
+  {
+    "nombre": "centropark",
+    "ubicación": "-2.1951024255,-79.8816780321"
+  },
+  {
+    "nombre": "centrum",
+    "ubicación": "-2.1644803361,-79.8957191553"
+  },
+  {
+    "nombre": "cercaurco",
+    "ubicación": "-2.4431637389,-79.0940183647"
+  },
+  {
+    "nombre": "cerecita2",
+    "ubicación": "-2.3639361948,-80.3037898665"
+  },
+  {
+    "nombre": "cerro_de hojas",
+    "ubicación": "-1.0456320566,-80.5464213204"
+  },
+  {
+    "nombre": "cerro_del_carmen",
+    "ubicación": "-2.179976632,-79.880062324"
+  },
+  {
+    "nombre": "cerroazul",
+    "ubicación": "-2.1657798278,-79.9574319612"
+  },
+  {
+    "nombre": "cerrostaana",
+    "ubicación": "-2.1800887461,-79.8762025817"
+  },
+  {
+    "nombre": "cerveceria",
+    "ubicación": "-2.0607420465,-79.9549684666"
+  },
+  {
+    "nombre": "cgonzales",
+    "ubicación": "-2.3485779885,-80.5437305497"
+  },
+  {
+    "nombre": "cguevara",
+    "ubicación": "-2.2560295399,-79.8715289108"
+  },
+  {
+    "nombre": "chala",
+    "ubicación": "-2.2055054858,-79.9120236271"
+  },
+  {
+    "nombre": "charapoto",
+    "ubicación": "-0.8419600191,-80.4942651683"
+  },
+  {
+    "nombre": "chaullabamba",
+    "ubicación": "-2.8498732744,-78.9257154202"
+  },
+  {
+    "nombre": "chemisse",
+    "ubicación": "-2.176513708,-79.8937935105"
+  },
+  {
+    "nombre": "chimboraz",
+    "ubicación": "-2.2081819294,-79.8887420055"
+  },
+  {
+    "nombre": "chipipe",
+    "ubicación": "-2.2004727626,-80.9827632867"
+  },
+  {
+    "nombre": "chonecamal",
+    "ubicación": "-0.7208987194,-80.1001021902"
+  },
+  {
+    "nombre": "chonecen2",
+    "ubicación": "-0.6924007057,-80.0948687778"
+  },
+  {
+    "nombre": "chonecentro",
+    "ubicación": "-0.6876034507,-80.090287962"
+  },
+  {
+    "nombre": "chonecomer",
+    "ubicación": "-0.697083,-80.092307"
+  },
+  {
+    "nombre": "choneeste",
+    "ubicación": "-0.7001438028,-80.082493387"
+  },
+  {
+    "nombre": "choneoeste",
+    "ubicación": "-0.7005833198,-80.0968271254"
+  },
+  {
+    "nombre": "chonesur",
+    "ubicación": "-0.7021219671,-80.0912030396"
+  },
+  {
+    "nombre": "choneuniver",
+    "ubicación": "-0.698726892,-80.1147207991"
+  },
+  {
+    "nombre": "chongon",
+    "ubicación": "-2.2203097985,-80.081968178"
+  },
+  {
+    "nombre": "chongon",
+    "ubicación": "-2.2203097985,-80.081968178"
+  },
+  {
+    "nombre": "chongonnew",
+    "ubicación": "-2.2376031748,-80.0815894627"
+  },
+  {
+    "nombre": "chulluipe",
+    "ubicación": "-2.2076171471,-80.8736786071"
+  },
+  {
+    "nombre": "chulluipecen",
+    "ubicación": "-2.2094299818,-80.8838333923"
+  },
+  {
+    "nombre": "circnorteg",
+    "ubicación": "-2.1670621975,-79.9032977493"
+  },
+  {
+    "nombre": "circsurcue",
+    "ubicación": "-2.8777552811,-78.9461821658"
+  },
+  {
+    "nombre": "circunveste",
+    "ubicación": "-2.1724874725,-79.9100760096"
+  },
+  {
+    "nombre": "circunvoeste",
+    "ubicación": "-2.1740865713,-79.9073774007"
+  },
+  {
+    "nombre": "cisne",
+    "ubicación": "-3.8463529965,-79.4289790763"
+  },
+  {
+    "nombre": "cisnero",
+    "ubicación": "-2.1650340009,-79.8444324163"
+  },
+  {
+    "nombre": "cisneronew",
+    "ubicación": "-2.1598710568,-79.8427674269"
+  },
+  {
+    "nombre": "citymall",
+    "ubicación": "-2.1416858434,-79.9093757691"
+  },
+  {
+    "nombre": "ciudadjardin",
+    "ubicación": "-1.0030168014,-80.6977961028"
+  },
+  {
+    "nombre": "clinica_paz",
+    "ubicación": "-2.902201386,-78.995224092"
+  },
+  {
+    "nombre": "clinicakennedy",
+    "ubicación": "-2.1730313349,-79.8992228528"
+  },
+  {
+    "nombre": "clodoveo",
+    "ubicación": "-3.9825260608,-79.2136144515"
+  },
+  {
+    "nombre": "cnacional",
+    "ubicación": "-2.147882913,-79.9335736016"
+  },
+  {
+    "nombre": "colegio_javier",
+    "ubicación": "-2.1662454534,-79.9338132374"
+  },
+  {
+    "nombre": "colinasaman",
+    "ubicación": "-2.1174854815,-79.9139617042"
+  },
+  {
+    "nombre": "colinasceibos",
+    "ubicación": "-2.1587793579,-79.9399663939"
+  },
+  {
+    "nombre": "colinasdelsol",
+    "ubicación": "-2.1257303428,-79.92975307"
+  },
+  {
+    "nombre": "collaw",
+    "ubicación": "-2.0388796355,-79.8896992712"
+  },
+  {
+    "nombre": "colmenor",
+    "ubicación": "-2.074426844,-79.8628254028"
+  },
+  {
+    "nombre": "colon",
+    "ubicación": "-2.19544098,-79.8869197009"
+  },
+  {
+    "nombre": "colonma",
+    "ubicación": "-1.1102154833,-80.4178833972"
+  },
+  {
+    "nombre": "colsimonbol",
+    "ubicación": "-2.1733025641,-79.8911585663"
+  },
+  {
+    "nombre": "colteodoromal",
+    "ubicación": "-2.2246008723,-79.9283831488"
+  },
+  {
+    "nombre": "comin",
+    "ubicación": "-2.2430270259,-79.8882726396"
+  },
+  {
+    "nombre": "condor",
+    "ubicación": "-2.1282010734,-79.907918998"
+  },
+  {
+    "nombre": "condorsur",
+    "ubicación": "-2.1309585782,-79.9112774727"
+  },
+  {
+    "nombre": "conquistador",
+    "ubicación": "-2.2074964727,-80.9712814853"
+  },
+  {
+    "nombre": "consuelo",
+    "ubicación": "-2.2934263991,-80.224030629"
+  },
+  {
+    "nombre": "continent",
+    "ubicación": "-2.1945507915,-79.8851648106"
+  },
+  {
+    "nombre": "contylegsa",
+    "ubicación": "-2.1529045081,-79.9011685311"
+  },
+  {
+    "nombre": "convencion",
+    "ubicación": "-2.8923383219,-79.0164887357"
+  },
+  {
+    "nombre": "coop27deenero",
+    "ubicación": "-2.1520389592,-79.9313194683"
+  },
+  {
+    "nombre": "coopjmontal",
+    "ubicación": "-2.1269212049,-79.9135342091"
+  },
+  {
+    "nombre": "coopmontesinai",
+    "ubicación": "-2.1198481378,-79.9977535975"
+  },
+  {
+    "nombre": "cooproldos",
+    "ubicación": "-2.2271649413,-79.9136693595"
+  },
+  {
+    "nombre": "coopunidos",
+    "ubicación": "-2.1272683924,-79.9390511818"
+  },
+  {
+    "nombre": "coopunidos2",
+    "ubicación": "-2.1331248489,-79.9403811099"
+  },
+  {
+    "nombre": "coopunidos3",
+    "ubicación": "-2.1302189471,-79.9376734288"
+  },
+  {
+    "nombre": "coptwinza",
+    "ubicación": "-2.098904895,-79.9722158711"
+  },
+  {
+    "nombre": "coral3g",
+    "ubicación": "-2.1792087594,-79.9068184894"
+  },
+  {
+    "nombre": "coroso",
+    "ubicación": "-1.4897976902,-80.524414097"
+  },
+  {
+    "nombre": "coroso",
+    "ubicación": "-1.4897976902,-80.524414097"
+  },
+  {
+    "nombre": "costalmar",
+    "ubicación": "-2.190892817,-80.0524159019"
+  },
+  {
+    "nombre": "coviem",
+    "ubicación": "-2.2359587152,-79.9033692048"
+  },
+  {
+    "nombre": "cow_sanpablo2",
+    "ubicación": "-2.1335569935,-80.7682033154"
+  },
+  {
+    "nombre": "cowgolf",
+    "ubicación": "-2.0978646141,-79.8731589119"
+  },
+  {
+    "nombre": "cowlabarranca",
+    "ubicación": "-2.0665328189,-79.8394163648"
+  },
+  {
+    "nombre": "cowlastunas",
+    "ubicación": "-1.65268806,-80.82124819"
+  },
+  {
+    "nombre": "cowmanta",
+    "ubicación": "-0.9411507292,-80.7309394215"
+  },
+  {
+    "nombre": "cowmanta1",
+    "ubicación": "-0.9565521281,-80.719419593"
+  },
+  {
+    "nombre": "cowmanta2",
+    "ubicación": "-0.9584392202,-80.7129378143"
+  },
+  {
+    "nombre": "cowpetropoli",
+    "ubicación": "-2.2054692469,-80.9571596234"
+  },
+  {
+    "nombre": "cowplayas",
+    "ubicación": "-2.6351460094,-80.392521661"
+  },
+  {
+    "nombre": "cowportooeste",
+    "ubicación": "-1.055852422,-80.461069667"
+  },
+  {
+    "nombre": "cowsarayunga",
+    "ubicación": "-3.3099629054,-79.5982051363"
+  },
+  {
+    "nombre": "cowstaelena",
+    "ubicación": "-2.2223318417,-80.8589350083"
+  },
+  {
+    "nombre": "cowvaradero",
+    "ubicación": "-2.7236632572,-80.2992919531"
+  },
+  {
+    "nombre": "cowviadata",
+    "ubicación": "-2.6711066761,-80.3627291163"
+  },
+  {
+    "nombre": "cridesa",
+    "ubicación": "-2.0881309198,-79.9515628272"
+  },
+  {
+    "nombre": "cristalinas",
+    "ubicación": "-2.6263039401,-80.3994337151"
+  },
+  {
+    "nombre": "crucita",
+    "ubicación": "-0.8571025341,-80.5327459745"
+  },
+  {
+    "nombre": "crucitacen",
+    "ubicación": "-0.8706879189,-80.5380983262"
+  },
+  {
+    "nombre": "csegura",
+    "ubicación": "-2.2132045293,-79.9214681851"
+  },
+  {
+    "nombre": "csegurasur",
+    "ubicación": "-2.2168604093,-79.9211016268"
+  },
+  {
+    "nombre": "ctroconven",
+    "ubicación": "-2.1593377587,-79.8873638432"
+  },
+  {
+    "nombre": "cuarto_equipos portrans",
+    "ubicación": "-2.0341803684,-79.9497405154"
+  },
+  {
+    "nombre": "cuemercado",
+    "ubicación": "-2.9004557639,-79.0289649731"
+  },
+  {
+    "nombre": "cuenca_aereo",
+    "ubicación": "-2.8885053527,-78.9890091423"
+  },
+  {
+    "nombre": "cuencaame",
+    "ubicación": "-2.8957199849,-79.0260645487"
+  },
+  {
+    "nombre": "cuencaaun",
+    "ubicación": "-2.9002812853,-79.0190671509"
+  },
+  {
+    "nombre": "cuencaindustrial",
+    "ubicación": "-2.881330743,-78.977866065"
+  },
+  {
+    "nombre": "cuencamet",
+    "ubicación": "-2.8881064606,-79.0030524577"
+  },
+  {
+    "nombre": "cuencanorte",
+    "ubicación": "-2.8604336525,-79.0370887113"
+  },
+  {
+    "nombre": "cuencaocc",
+    "ubicación": "-2.9040879974,-79.0122021598"
+  },
+  {
+    "nombre": "cuencaori",
+    "ubicación": "-2.8877041057,-78.9605125018"
+  },
+  {
+    "nombre": "cuencasori",
+    "ubicación": "-2.9025236398,-78.9891465207"
+  },
+  {
+    "nombre": "cuencatejar",
+    "ubicación": "-2.881800666,-79.0594767057"
+  },
+  {
+    "nombre": "cuencavilla",
+    "ubicación": "-2.9197869347,-78.9981281759"
+  },
+  {
+    "nombre": "cuencuicocha",
+    "ubicación": "-2.8863021152,-78.9773014131"
+  },
+  {
+    "nombre": "cueretamas",
+    "ubicación": "-2.8945460119,-78.9861276725"
+  },
+  {
+    "nombre": "data",
+    "ubicación": "-2.6938551659,-80.3326910367"
+  },
+  {
+    "nombre": "data_center_TELENEWS",
+    "ubicación": "-2.2332288214,-79.8868328442"
+  },
+  {
+    "nombre": "datacenter",
+    "ubicación": "-2.1533091762,-79.9528895388"
+  },
+  {
+    "nombre": "datavillamil",
+    "ubicación": "-2.645744963,-80.3813236094"
+  },
+  {
+    "nombre": "datiles",
+    "ubicación": "-2.1715377344,-79.9060641139"
+  },
+  {
+    "nombre": "daule",
+    "ubicación": "-1.8641810271,-79.9747158608"
+  },
+  {
+    "nombre": "daule2",
+    "ubicación": "-1.8601262661,-79.9778689912"
+  },
+  {
+    "nombre": "Daulecen",
+    "ubicación": "-1.8583468929,-79.9720420268"
+  },
+  {
+    "nombre": "daulecity",
+    "ubicación": "-1.8666336755,-79.9836806986"
+  },
+  {
+    "nombre": "daulehosp",
+    "ubicación": "-1.8708597207,-79.9815710815"
+  },
+  {
+    "nombre": "daulemerc",
+    "ubicación": "-1.8655675802,-79.97787565"
+  },
+  {
+    "nombre": "daulenor",
+    "ubicación": "-1.8515101456,-79.9822703096"
+  },
+  {
+    "nombre": "daulesure",
+    "ubicación": "-1.8744476605,-79.9816925088"
+  },
+  {
+    "nombre": "davlop",
+    "ubicación": "-0.9493392401,-80.7403819931"
+  },
+  {
+    "nombre": "dcordova",
+    "ubicación": "-2.8803186511,-78.7516360922"
+  },
+  {
+    "nombre": "deliciasnor",
+    "ubicación": "-2.0837643516,-79.9735430691"
+  },
+  {
+    "nombre": "deloitte",
+    "ubicación": "-2.1878978026,-79.8943780835"
+  },
+  {
+    "nombre": "democracia",
+    "ubicación": "-2.1666804065,-79.8401181964"
+  },
+  {
+    "nombre": "democracia2",
+    "ubicación": "-2.1697279405,-79.8452276961"
+  },
+  {
+    "nombre": "deprati",
+    "ubicación": "-2.1923268833,-79.8839124927"
+  },
+  {
+    "nombre": "destruge",
+    "ubicación": "-2.2036084368,-79.9230537806"
+  },
+  {
+    "nombre": "diamante",
+    "ubicación": "-2.0384510322,-79.9220453702"
+  },
+  {
+    "nombre": "diana_quintana",
+    "ubicación": "-2.1284981699,-79.8645421067"
+  },
+  {
+    "nombre": "dicentro",
+    "ubicación": "-2.1476830072,-79.9013106943"
+  },
+  {
+    "nombre": "difare",
+    "ubicación": "-2.1526002617,-79.8785607946"
+  },
+  {
+    "nombre": "diporgye",
+    "ubicación": "-2.106824085,-79.9318334393"
+  },
+  {
+    "nombre": "duchicela",
+    "ubicación": "-2.2745239539,-79.8851996965"
+  },
+  {
+    "nombre": "duran5jun",
+    "ubicación": "-2.1641037785,-79.8296799211"
+  },
+  {
+    "nombre": "duranamazonas",
+    "ubicación": "-2.1700830003,-79.8258396986"
+  },
+  {
+    "nombre": "duranbol",
+    "ubicación": "-2.2152287417,-79.7304567595"
+  },
+  {
+    "nombre": "durancent",
+    "ubicación": "-2.1889150398,-79.802732003"
+  },
+  {
+    "nombre": "durandos",
+    "ubicación": "-2.1708873538,-79.8519553939"
+  },
+  {
+    "nombre": "duraneste",
+    "ubicación": "-2.1633395103,-79.8359400988"
+  },
+  {
+    "nombre": "duranfabr",
+    "ubicación": "-2.1776811242,-79.8556796611"
+  },
+  {
+    "nombre": "duranherradura",
+    "ubicación": "-2.1559809782,-79.7880998803"
+  },
+  {
+    "nombre": "duranind",
+    "ubicación": "-2.1897689437,-79.8364892269"
+  },
+  {
+    "nombre": "duranout",
+    "ubicación": "-2.1750311791,-79.8281106648"
+  },
+  {
+    "nombre": "duranpastor",
+    "ubicación": "-2.1658403448,-79.8207603698"
+  },
+  {
+    "nombre": "duransalida",
+    "ubicación": "-2.2142399263,-79.7918062397"
+  },
+  {
+    "nombre": "duransur",
+    "ubicación": "-2.1838373858,-79.8563421519"
+  },
+  {
+    "nombre": "duransurdos",
+    "ubicación": "-2.1829176882,-79.8493049302"
+  },
+  {
+    "nombre": "duranyas",
+    "ubicación": "-2.167243296,-79.8000646232"
+  },
+  {
+    "nombre": "easy_macro",
+    "ubicación": "-2.1607475147,-79.9266645471"
+  },
+  {
+    "nombre": "easy_macro duragas",
+    "ubicación": "-1.0560325433,-80.6231248253"
+  },
+  {
+    "nombre": "easy_macro lamancha",
+    "ubicación": "-2.0510790114,-79.9381132503"
+  },
+  {
+    "nombre": "easy_macro portrans",
+    "ubicación": "-2.0344429341,-79.9501089709"
+  },
+  {
+    "nombre": "easy_macro tadel",
+    "ubicación": "-0.9745557218,-80.6344409738"
+  },
+  {
+    "nombre": "easy_macro_villas del bosque",
+    "ubicación": "-2.2004746919,-80.0699592976"
+  },
+  {
+    "nombre": "ecuahielo",
+    "ubicación": "-2.1815356977,-79.8590849447"
+  },
+  {
+    "nombre": "ecuasal",
+    "ubicación": "-2.094421636,-79.926717947"
+  },
+  {
+    "nombre": "ecuavisa_2",
+    "ubicación": "-2.2257456107,-79.8889813772"
+  },
+  {
+    "nombre": "ecuavisain",
+    "ubicación": "-2.1816792934,-79.8836219421"
+  },
+  {
+    "nombre": "edenduran",
+    "ubicación": "-2.1605074983,-79.8061993852"
+  },
+  {
+    "nombre": "eduardoso",
+    "ubicación": "-2.1512821174,-79.9403613714"
+  },
+  {
+    "nombre": "el_capi",
+    "ubicación": "-2.1567171445,-79.8956423191"
+  },
+  {
+    "nombre": "el_dorado",
+    "ubicación": "-2.0547841743,-79.8738827006"
+  },
+  {
+    "nombre": "el_empalme",
+    "ubicación": "-1.0475374196,-79.6399223937"
+  },
+  {
+    "nombre": "el_prado",
+    "ubicación": "-3.2509259241,-79.9469401345"
+  },
+  {
+    "nombre": "el_rio",
+    "ubicación": "-2.1347785952,-79.8578410377"
+  },
+  {
+    "nombre": "el_tambocity",
+    "ubicación": "-2.5101105997,-78.9266703239"
+  },
+  {
+    "nombre": "el_trebol",
+    "ubicación": "-2.157017262,-79.8304758991"
+  },
+  {
+    "nombre": "el_triunfo",
+    "ubicación": "-2.3302049445,-79.4215237947"
+  },
+  {
+    "nombre": "elcisne",
+    "ubicación": "-2.2161346433,-79.9106824959"
+  },
+  {
+    "nombre": "elenacentro",
+    "ubicación": "-2.2260736943,-80.8643208762"
+  },
+  {
+    "nombre": "elenasur",
+    "ubicación": "-2.2282503922,-80.8608935893"
+  },
+  {
+    "nombre": "elfortin",
+    "ubicación": "-2.1130685596,-79.9573416971"
+  },
+  {
+    "nombre": "elitebuilding",
+    "ubicación": "-2.1554800765,-79.8898556022"
+  },
+  {
+    "nombre": "eloy_alfaro",
+    "ubicación": "-2.2054326901,-79.885207104"
+  },
+  {
+    "nombre": "eloyalfaro",
+    "ubicación": "-3.2580382621,-79.9583301381"
+  },
+  {
+    "nombre": "eluniverso",
+    "ubicación": "-2.2334699858,-79.8914692748"
+  },
+  {
+    "nombre": "emedos",
+    "ubicación": "-2.1038114596,-79.8759650267"
+  },
+  {
+    "nombre": "emodelo",
+    "ubicación": "-2.1783888502,-79.8963789195"
+  },
+  {
+    "nombre": "emov",
+    "ubicación": "-2.910009229,-79.041554991"
+  },
+  {
+    "nombre": "empalmeeste",
+    "ubicación": "-1.0475406081,-79.6349196943"
+  },
+  {
+    "nombre": "empalmenew",
+    "ubicación": "-1.0445611559,-79.6468120563"
+  },
+  {
+    "nombre": "empalmenor",
+    "ubicación": "-1.0396298318,-79.6356266073"
+  },
+  {
+    "nombre": "empresariales",
+    "ubicación": "-2.1826294181,-79.9023048242"
+  },
+  {
+    "nombre": "entreolivos",
+    "ubicación": "-2.1340737844,-79.8718955697"
+  },
+  {
+    "nombre": "entrerios",
+    "ubicación": "-2.1430461956,-79.8646730222"
+  },
+  {
+    "nombre": "entrerios2",
+    "ubicación": "-2.1255995152,-79.8627596018"
+  },
+  {
+    "nombre": "entrerioscen",
+    "ubicación": "-2.1501717903,-79.8684292365"
+  },
+  {
+    "nombre": "entreriosin",
+    "ubicación": "-2.1418019191,-79.8650764685"
+  },
+  {
+    "nombre": "equilibrium",
+    "ubicación": "-2.1571408648,-79.8918936438"
+  },
+  {
+    "nombre": "esclueste",
+    "ubicación": "-2.2640448394,-79.8746454612"
+  },
+  {
+    "nombre": "esclumer",
+    "ubicación": "-2.2571075546,-79.8830034774"
+  },
+  {
+    "nombre": "esclusas",
+    "ubicación": "-2.262563935,-79.8805050492"
+  },
+  {
+    "nombre": "escobedo",
+    "ubicación": "-2.1916103453,-79.8832789028"
+  },
+  {
+    "nombre": "espin",
+    "ubicación": "-2.878604357,-78.995735637"
+  },
+  {
+    "nombre": "espol",
+    "ubicación": "-2.1464512504,-79.9666187924"
+  },
+  {
+    "nombre": "esteros",
+    "ubicación": "-2.2469210307,-79.901457818"
+  },
+  {
+    "nombre": "esteros2",
+    "ubicación": "-2.2438159175,-79.9058918267"
+  },
+  {
+    "nombre": "estrada",
+    "ubicación": "-2.1757211871,-79.9052503724"
+  },
+  {
+    "nombre": "etamarindo",
+    "ubicación": "-1.0408824479,-80.4629077929"
+  },
+  {
+    "nombre": "etapa",
+    "ubicación": "-2.9120909158,-78.9950275614"
+  },
+  {
+    "nombre": "eucaliptos",
+    "ubicación": "-2.1126326634,-79.9486763033"
+  },
+  {
+    "nombre": "executive",
+    "ubicación": "-2.1568069198,-79.8926719533"
+  },
+  {
+    "nombre": "expalsa",
+    "ubicación": "-2.2141801518,-79.8262572275"
+  },
+  {
+    "nombre": "expoferia4",
+    "ubicación": "-2.119193573,-79.9520845722"
+  },
+  {
+    "nombre": "expoferias2",
+    "ubicación": "-2.1189220941,-79.9560375364"
+  },
+  {
+    "nombre": "expoferias3",
+    "ubicación": "-2.1229615523,-79.951530852"
+  },
+  {
+    "nombre": "expoferias4",
+    "ubicación": "-2.1235985671,-79.9573055187"
+  },
+  {
+    "nombre": "f_palacio",
+    "ubicación": "-1.061151032,-80.487924694"
+  },
+  {
+    "nombre": "facso",
+    "ubicación": "-2.1592632029,-79.9197648506"
+  },
+  {
+    "nombre": "faeguayas",
+    "ubicación": "-2.16683165,-79.8831925317"
+  },
+  {
+    "nombre": "fcomarcos",
+    "ubicación": "-2.2035834865,-79.8964458132"
+  },
+  {
+    "nombre": "fcordero",
+    "ubicación": "-2.1979387684,-79.9031083096"
+  },
+  {
+    "nombre": "fedeguayas",
+    "ubicación": "-2.1901697596,-79.8933615713"
+  },
+  {
+    "nombre": "feriadura",
+    "ubicación": "-2.1825597096,-79.8314991194"
+  },
+  {
+    "nombre": "ferroviag",
+    "ubicación": "-2.1873779541,-79.9044809184"
+  },
+  {
+    "nombre": "fertisa",
+    "ubicación": "-2.2559400291,-79.8995130128"
+  },
+  {
+    "nombre": "feyalegria",
+    "ubicación": "-2.2121397721,-79.9378580185"
+  },
+  {
+    "nombre": "finansur",
+    "ubicación": "-2.1881457784,-79.8936908821"
+  },
+  {
+    "nombre": "fizz",
+    "ubicación": "-2.161747706,-79.8961791647"
+  },
+  {
+    "nombre": "flavio_alfaro",
+    "ubicación": "-0.3967778944,-79.9029235816"
+  },
+  {
+    "nombre": "flor_de_bastion2",
+    "ubicación": "-2.107599204,-79.958491219"
+  },
+  {
+    "nombre": "floral",
+    "ubicación": "-2.0332998278,-79.8922850196"
+  },
+  {
+    "nombre": "florbastion",
+    "ubicación": "-2.1037355488,-79.9556552136"
+  },
+  {
+    "nombre": "floressur",
+    "ubicación": "-1.8101586334,-79.516306574"
+  },
+  {
+    "nombre": "floressur",
+    "ubicación": "-1.8101586334,-79.516306574"
+  },
+  {
+    "nombre": "floresta3",
+    "ubicación": "-2.2507218906,-79.8906340594"
+  },
+  {
+    "nombre": "floridanew",
+    "ubicación": "-2.123363282,-79.9426447338"
+  },
+  {
+    "nombre": "floron",
+    "ubicación": "-1.0767715926,-80.4531648073"
+  },
+  {
+    "nombre": "florparaiso",
+    "ubicación": "-2.1017154199,-79.9505906039"
+  },
+  {
+    "nombre": "florpop",
+    "ubicación": "-2.1063633299,-79.9654964711"
+  },
+  {
+    "nombre": "florpop2",
+    "ubicación": "-2.109950687,-79.9675846452"
+  },
+  {
+    "nombre": "forestal",
+    "ubicación": "-2.2163234981,-79.8979883597"
+  },
+  {
+    "nombre": "fortuna",
+    "ubicación": "-1.8458578863,-79.429293896"
+  },
+  {
+    "nombre": "fortuna",
+    "ubicación": "-1.8458578863,-79.429293896"
+  },
+  {
+    "nombre": "gabrieldrn",
+    "ubicación": "-2.1580690762,-79.8224828926"
+  },
+  {
+    "nombre": "gabrieldrn2",
+    "ubicación": "-2.1500449527,-79.8241528273"
+  },
+  {
+    "nombre": "garciamor",
+    "ubicación": "-2.1950753574,-79.9128244765"
+  },
+  {
+    "nombre": "garzocent",
+    "ubicación": "-2.1441408901,-79.8910165422"
+  },
+  {
+    "nombre": "garzota",
+    "ubicación": "-2.1512363483,-79.8891509728"
+  },
+  {
+    "nombre": "garzota2",
+    "ubicación": "-2.1401169817,-79.8853747382"
+  },
+  {
+    "nombre": "garzozi",
+    "ubicación": "-2.0705774556,-79.9444150022"
+  },
+  {
+    "nombre": "girasoles",
+    "ubicación": "-2.1912772696,-79.9467597722"
+  },
+  {
+    "nombre": "giron",
+    "ubicación": "-3.1849139727,-79.1417610591"
+  },
+  {
+    "nombre": "glitoral",
+    "ubicación": "-2.1616766936,-79.8976486215"
+  },
+  {
+    "nombre": "gomezrend",
+    "ubicación": "-2.2006051959,-79.8944779317"
+  },
+  {
+    "nombre": "goyena",
+    "ubicación": "-2.1985057506,-79.9296107097"
+  },
+  {
+    "nombre": "gpareja",
+    "ubicación": "-2.146490256,-79.8985111705"
+  },
+  {
+    "nombre": "gprovincial",
+    "ubicación": "-2.1933633708,-79.8801101778"
+  },
+  {
+    "nombre": "guabito",
+    "ubicación": "-1.0757130684,-80.4405069145"
+  },
+  {
+    "nombre": "guabitosur",
+    "ubicación": "-1.0878480291,-80.4335447999"
+  },
+  {
+    "nombre": "guacasitas",
+    "ubicación": "-2.247834032,-79.8808572079"
+  },
+  {
+    "nombre": "gualaceo",
+    "ubicación": "-2.8917951539,-78.7863107425"
+  },
+  {
+    "nombre": "gualaquizacen",
+    "ubicación": "-3.402853247,-78.5800005738"
+  },
+  {
+    "nombre": "guapondeling",
+    "ubicación": "-2.8986540174,-78.9900881417"
+  },
+  {
+    "nombre": "guascentr",
+    "ubicación": "-2.2686582581,-79.887729805"
+  },
+  {
+    "nombre": "guaseste",
+    "ubicación": "-2.2512411523,-79.8827812208"
+  },
+  {
+    "nombre": "guasmooeste",
+    "ubicación": "-2.2559516801,-79.8931095866"
+  },
+  {
+    "nombre": "guasmopuga",
+    "ubicación": "-2.2811235127,-79.8762931195"
+  },
+  {
+    "nombre": "guasmosur",
+    "ubicación": "-2.2819109093,-79.881710293"
+  },
+  {
+    "nombre": "guasmosur2",
+    "ubicación": "-2.2800375746,-79.8867858907"
+  },
+  {
+    "nombre": "guasmosure",
+    "ubicación": "-2.2766225574,-79.8788749914"
+  },
+  {
+    "nombre": "guayaca_2",
+    "ubicación": "-2.1171936723,-79.889322072"
+  },
+  {
+    "nombre": "guayacanes",
+    "ubicación": "-2.1207926351,-79.8857606481"
+  },
+  {
+    "nombre": "guayaquil",
+    "ubicación": "-2.1543462076,-79.8879267501"
+  },
+  {
+    "nombre": "hampton",
+    "ubicación": "-2.1909921129,-79.8819912813"
+  },
+  {
+    "nombre": "headend_mapasingue",
+    "ubicación": "-2.1554382647,-79.9319108169"
+  },
+  {
+    "nombre": "hercules",
+    "ubicación": "-2.863374022,-78.987887246"
+  },
+  {
+    "nombre": "hitocruz",
+    "ubicación": "-2.9306535862,-78.9974550152"
+  },
+  {
+    "nombre": "horizfortin",
+    "ubicación": "-2.1346771979,-79.9600431193"
+  },
+  {
+    "nombre": "hospmontesinai",
+    "ubicación": "-2.1268212003,-80.0035752239"
+  },
+  {
+    "nombre": "hospvernaza",
+    "ubicación": "-2.1829755259,-79.8807184892"
+  },
+  {
+    "nombre": "hotelhilt",
+    "ubicación": "-2.158024324,-79.8989591975"
+  },
+  {
+    "nombre": "huancavilca",
+    "ubicación": "-2.0991545682,-79.9052235922"
+  },
+  {
+    "nombre": "huancavilca",
+    "ubicación": "-2.1928913999,-79.9213426452"
+  },
+  {
+    "nombre": "huaquibos",
+    "ubicación": "-3.4848064002,-80.2133597654"
+  },
+  {
+    "nombre": "huaquicen",
+    "ubicación": "-3.4815453425,-80.2398785709"
+  },
+  {
+    "nombre": "huaquieste",
+    "ubicación": "-3.4737189369,-80.2239136654"
+  },
+  {
+    "nombre": "huaquillas",
+    "ubicación": "-3.4815546846,-80.2300873188"
+  },
+  {
+    "nombre": "huaquisur",
+    "ubicación": "-3.4829598107,-80.2349580022"
+  },
+  {
+    "nombre": "huniversitario",
+    "ubicación": "-2.098506006,-79.9450582522"
+  },
+  {
+    "nombre": "iayora",
+    "ubicación": "-1.8800063405,-80.145382165"
+  },
+  {
+    "nombre": "iess",
+    "ubicación": "-2.2270973201,-79.908334876"
+  },
+  {
+    "nombre": "ietel",
+    "ubicación": "-2.1522098146,-79.8960469494"
+  },
+  {
+    "nombre": "iguanas",
+    "ubicación": "-2.094782837,-79.957276682"
+  },
+  {
+    "nombre": "iguanas2",
+    "ubicación": "-2.0878813539,-79.9618402085"
+  },
+  {
+    "nombre": "ils",
+    "ubicación": "-2.1158586121,-79.943553852"
+  },
+  {
+    "nombre": "incarpalm",
+    "ubicación": "-3.287919008,-79.90639873"
+  },
+  {
+    "nombre": "induauto",
+    "ubicación": "-2.1889478405,-79.8892102185"
+  },
+  {
+    "nombre": "inesmaria",
+    "ubicación": "-2.1362307851,-79.309668043"
+  },
+  {
+    "nombre": "ingaloma",
+    "ubicación": "-2.7613485397,-78.8450488094"
+  },
+  {
+    "nombre": "iniar",
+    "ubicación": "-1.07928729,-79.4999982949"
+  },
+  {
+    "nombre": "innfoodservice_kfc",
+    "ubicación": "-2.1899454845,-79.886307212"
+  },
+  {
+    "nombre": "interagua",
+    "ubicación": "-2.1923379647,-79.9406231109"
+  },
+  {
+    "nombre": "interbarrial",
+    "ubicación": "-0.9851087241,-80.7122188608"
+  },
+  {
+    "nombre": "interhospital",
+    "ubicación": "-2.181168093,-79.9441797711"
+  },
+  {
+    "nombre": "isidroayora",
+    "ubicación": "-2.1306211482,-79.898302846"
+  },
+  {
+    "nombre": "jade",
+    "ubicación": "-1.0386669064,-79.4382559565"
+  },
+  {
+    "nombre": "jamacity",
+    "ubicación": "-0.2050302453,-80.2631713204"
+  },
+  {
+    "nombre": "jaramijo",
+    "ubicación": "-0.9440900909,-80.6438884774"
+  },
+  {
+    "nombre": "jaramillo",
+    "ubicación": "-2.2733720516,-79.8768468028"
+  },
+  {
+    "nombre": "jaraminew",
+    "ubicación": "-0.9478414876,-80.6384831684"
+  },
+  {
+    "nombre": "jaramisur",
+    "ubicación": "-0.959807122,-80.6370552415"
+  },
+  {
+    "nombre": "jardines",
+    "ubicación": "-2.1858971141,-79.9455587281"
+  },
+  {
+    "nombre": "jbc",
+    "ubicación": "-2.1927470088,-79.8817749238"
+  },
+  {
+    "nombre": "jdelgado",
+    "ubicación": "-2.14140694,-79.9008404859"
+  },
+  {
+    "nombre": "jeffperez",
+    "ubicación": "-2.884202116,-78.991567096"
+  },
+  {
+    "nombre": "jipicity",
+    "ubicación": "-1.3548921781,-80.5829322427"
+  },
+  {
+    "nombre": "jipijapa",
+    "ubicación": "-1.3642690227,-80.5896260058"
+  },
+  {
+    "nombre": "jipinorte",
+    "ubicación": "-1.3439565736,-80.578391796"
+  },
+  {
+    "nombre": "jmtalvogye",
+    "ubicación": "-2.126651639,-79.923667233"
+  },
+  {
+    "nombre": "jocayoeste",
+    "ubicación": "-0.9798340526,-80.7022426987"
+  },
+  {
+    "nombre": "jordan",
+    "ubicación": "-2.0784603127,-79.9271975583"
+  },
+  {
+    "nombre": "jorgeicaza",
+    "ubicación": "-2.12178755,-79.8994768822"
+  },
+  {
+    "nombre": "josebarba",
+    "ubicación": "-2.2194813573,-79.9054949619"
+  },
+  {
+    "nombre": "josegas",
+    "ubicación": "-2.1364174902,-79.8957082676"
+  },
+  {
+    "nombre": "joya_tres",
+    "ubicación": "-2.045587561,-79.9170590808"
+  },
+  {
+    "nombre": "joyagye",
+    "ubicación": "-2.0530980537,-79.9147092905"
+  },
+  {
+    "nombre": "juan_bautista",
+    "ubicación": "-1.8729236787,-79.880547706"
+  },
+  {
+    "nombre": "juanadeoro",
+    "ubicación": "-3.3257360276,-79.8274458791"
+  },
+  {
+    "nombre": "juanmarcet",
+    "ubicación": "-2.1682717071,-79.8961054899"
+  },
+  {
+    "nombre": "July25",
+    "ubicación": "-2.2631678454,-79.8986734009"
+  },
+  {
+    "nombre": "kennedymall",
+    "ubicación": "-2.1527535069,-79.9015207279"
+  },
+  {
+    "nombre": "km_26",
+    "ubicación": "-2.2499936698,-79.6359993742"
+  },
+  {
+    "nombre": "km8_via_daule",
+    "ubicación": "-2.1323273781,-79.9326189941"
+  },
+  {
+    "nombre": "la_34",
+    "ubicación": "-2.2036170178,-79.9299639833"
+  },
+  {
+    "nombre": "la_cima",
+    "ubicación": "-0.9979391746,-79.4455565982"
+  },
+  {
+    "nombre": "la_cima 2",
+    "ubicación": "-1.0080361946,-79.4390487542"
+  },
+  {
+    "nombre": "la_estancia",
+    "ubicación": "-2.0634643316,-79.8740710357"
+  },
+  {
+    "nombre": "la_glorita",
+    "ubicación": "-2.6577547596,-80.3749375704"
+  },
+  {
+    "nombre": "la_mana_2",
+    "ubicación": "-0.9469477295,-79.2417076699"
+  },
+  {
+    "nombre": "la_martina",
+    "ubicación": "-2.1815226361,-79.8218119886"
+  },
+  {
+    "nombre": "la_paleta",
+    "ubicación": "-2.1831298677,-79.8751505859"
+  },
+  {
+    "nombre": "la_pinonad",
+    "ubicación": "-1.0558857598,-80.4770008205"
+  },
+  {
+    "nombre": "la_pradera",
+    "ubicación": "-2.2384512791,-79.8915079363"
+  },
+  {
+    "nombre": "la_rioja",
+    "ubicación": "-2.0526398746,-79.9353008224"
+  },
+  {
+    "nombre": "la_troncal",
+    "ubicación": "-2.4176087551,-79.342995765"
+  },
+  {
+    "nombre": "la_universal",
+    "ubicación": "-2.2053220707,-79.8845058434"
+  },
+  {
+    "nombre": "la_veintiseis",
+    "ubicación": "-2.2176902028,-79.9303817376"
+  },
+  {
+    "nombre": "laavanzada",
+    "ubicación": "-3.5405564891,-79.959731118"
+  },
+  {
+    "nombre": "lafragata",
+    "ubicación": "-2.2514347417,-79.902737246"
+  },
+  {
+    "nombre": "lagunaclub",
+    "ubicación": "-2.1819409134,-79.9905880992"
+  },
+  {
+    "nombre": "lagunapark",
+    "ubicación": "-2.2326046415,-80.1068087933"
+  },
+  {
+    "nombre": "laica",
+    "ubicación": "-2.1746704428,-79.8889092909"
+  },
+  {
+    "nombre": "lamana",
+    "ubicación": "-0.9443279244,-79.2163478031"
+  },
+  {
+    "nombre": "laperla",
+    "ubicación": "-2.0612225663,-79.9058639591"
+  },
+  {
+    "nombre": "laquadra",
+    "ubicación": "-0.9582745593,-80.7558256205"
+  },
+  {
+    "nombre": "laquince",
+    "ubicación": "-2.2007991864,-79.9119781708"
+  },
+  {
+    "nombre": "larevancha",
+    "ubicación": "-0.9992715409,-80.739771936"
+  },
+  {
+    "nombre": "laria",
+    "ubicación": "-2.2141250482,-79.8860115498"
+  },
+  {
+    "nombre": "las_delicias",
+    "ubicación": "-2.0905886082,-79.9717159125"
+  },
+  {
+    "nombre": "las_gilces",
+    "ubicación": "-0.82631451,-80.525732877"
+  },
+  {
+    "nombre": "las_peñas",
+    "ubicación": "-2.1837916638,-79.8758604646"
+  },
+  {
+    "nombre": "las_tolas",
+    "ubicación": "-2.2059907236,-80.9680874345"
+  },
+  {
+    "nombre": "las_toldas",
+    "ubicación": "-2.2057744776,-80.9699836553"
+  },
+  {
+    "nombre": "las_vegas",
+    "ubicación": "-2.0682972873,-79.9349778704"
+  },
+  {
+    "nombre": "lascamaras",
+    "ubicación": "-2.1581469994,-79.8969175616"
+  },
+  {
+    "nombre": "lascano",
+    "ubicación": "-2.1844937771,-79.884132277"
+  },
+  {
+    "nombre": "laspalmeras",
+    "ubicación": "-3.2578839024,-79.9650623822"
+  },
+  {
+    "nombre": "latoma",
+    "ubicación": "-2.2631544817,-79.8867006147"
+  },
+  {
+    "nombre": "laurel",
+    "ubicación": "-1.7880934329,-79.9067133196"
+  },
+  {
+    "nombre": "lavictoriacue",
+    "ubicación": "-2.916491249,-79.043127689"
+  },
+  {
+    "nombre": "lbatan",
+    "ubicación": "-2.0796012529,-79.8742866968"
+  },
+  {
+    "nombre": "lechugal",
+    "ubicación": "-1.1992617187,-79.4211364726"
+  },
+  {
+    "nombre": "lechugal",
+    "ubicación": "-1.1992617187,-79.4211364726"
+  },
+  {
+    "nombre": "lgaraicoa",
+    "ubicación": "-2.066027148,-79.4363361961"
+  },
+  {
+    "nombre": "libercentro",
+    "ubicación": "-2.2234652292,-80.9092925258"
+  },
+  {
+    "nombre": "liberdromo",
+    "ubicación": "-2.2308212492,-80.8919841606"
+  },
+  {
+    "nombre": "libermercado",
+    "ubicación": "-2.2274881011,-80.9071602029"
+  },
+  {
+    "nombre": "libersubur",
+    "ubicación": "-2.2346050289,-80.9105152181"
+  },
+  {
+    "nombre": "libersure",
+    "ubicación": "-2.2368871306,-80.8968268652"
+  },
+  {
+    "nombre": "libersure2",
+    "ubicación": "-2.238212513,-80.8877066158"
+  },
+  {
+    "nombre": "libertad",
+    "ubicación": "-2.2258673562,-80.9132862061"
+  },
+  {
+    "nombre": "libertadeste",
+    "ubicación": "-2.2279218134,-80.8996665048"
+  },
+  {
+    "nombre": "libertadsur",
+    "ubicación": "-2.2427467655,-80.9081480527"
+  },
+  {
+    "nombre": "limonal",
+    "ubicación": "-1.7820774041,-79.9975759218"
+  },
+  {
+    "nombre": "limonalnew",
+    "ubicación": "-1.8181591961,-79.9950304075"
+  },
+  {
+    "nombre": "lojaalegria",
+    "ubicación": "-4.0299329537,-79.2101855017"
+  },
+  {
+    "nombre": "lojaandes",
+    "ubicación": "-4.0264719254,-79.2035247926"
+  },
+  {
+    "nombre": "lojabenja",
+    "ubicación": "-4.0180511706,-79.2101868055"
+  },
+  {
+    "nombre": "lojacarigan",
+    "ubicación": "-3.9533068877,-79.2359721251"
+  },
+  {
+    "nombre": "lojacentro",
+    "ubicación": "-4.0005676552,-79.2020064754"
+  },
+  {
+    "nombre": "lojacolinas",
+    "ubicación": "-4.0188284756,-79.2244136322"
+  },
+  {
+    "nombre": "lojacoliseo",
+    "ubicación": "-4.0060127517,-79.205888617"
+  },
+  {
+    "nombre": "lojaferia",
+    "ubicación": "-3.9664540702,-79.2058521265"
+  },
+  {
+    "nombre": "lojagranada",
+    "ubicación": "-3.9785601076,-79.2199208099"
+  },
+  {
+    "nombre": "lojahuay",
+    "ubicación": "-4.0054520672,-79.1880660688"
+  },
+  {
+    "nombre": "lojamercado",
+    "ubicación": "-3.9966365327,-79.2045946624"
+  },
+  {
+    "nombre": "lojanorte",
+    "ubicación": "-3.9915243992,-79.2047142553"
+  },
+  {
+    "nombre": "lojaoeste",
+    "ubicación": "-4.0042016865,-79.2311243923"
+  },
+  {
+    "nombre": "lojaoriente",
+    "ubicación": "-3.9981028625,-79.1978017946"
+  },
+  {
+    "nombre": "lojaoriente",
+    "ubicación": "-3.9981028625,-79.1978017946"
+  },
+  {
+    "nombre": "lojaorillas",
+    "ubicación": "-3.9919400033,-79.201026413"
+  },
+  {
+    "nombre": "lojapalta",
+    "ubicación": "-4.0046759337,-79.2094863761"
+  },
+  {
+    "nombre": "lojaroman",
+    "ubicación": "-3.9904150518,-79.2090463095"
+  },
+  {
+    "nombre": "lojasauces",
+    "ubicación": "-3.9542533115,-79.2118169417"
+  },
+  {
+    "nombre": "lojasebastian",
+    "ubicación": "-3.9849504621,-79.2051004699"
+  },
+  {
+    "nombre": "lojasur",
+    "ubicación": "-4.008608897,-79.2025472555"
+  },
+  {
+    "nombre": "lojatermi",
+    "ubicación": "-3.974985077,-79.2057941074"
+  },
+  {
+    "nombre": "lojaune",
+    "ubicación": "-4.0158599118,-79.2171859477"
+  },
+  {
+    "nombre": "lojauniver",
+    "ubicación": "-3.9997439154,-79.2052328905"
+  },
+  {
+    "nombre": "lojaunl",
+    "ubicación": "-4.0315005934,-79.2023009994"
+  },
+  {
+    "nombre": "lojayahuar",
+    "ubicación": "-4.0173361634,-79.1996306082"
+  },
+  {
+    "nombre": "loma_de viento",
+    "ubicación": "-0.7077882433,-80.4080482074"
+  },
+  {
+    "nombre": "lomaquil",
+    "ubicación": "-2.2516588622,-80.1370135878"
+  },
+  {
+    "nombre": "lomasflorida",
+    "ubicación": "-2.1295024002,-79.9553170924"
+  },
+  {
+    "nombre": "lomasurdesa",
+    "ubicación": "-2.1641910711,-79.906265597"
+  },
+  {
+    "nombre": "lopez_city",
+    "ubicación": "-1.5584491941,-80.8111144766"
+  },
+  {
+    "nombre": "los_bosques",
+    "ubicación": "-1.047352525,-80.472002398"
+  },
+  {
+    "nombre": "los_bosques_2",
+    "ubicación": "-1.049584997,-80.465688789"
+  },
+  {
+    "nombre": "los_encuentros",
+    "ubicación": "-3.7668605791,-78.6397929328"
+  },
+  {
+    "nombre": "los_rios",
+    "ubicación": "-2.2042374696,-79.9040468169"
+  },
+  {
+    "nombre": "los_senderos",
+    "ubicación": "-2.1642019081,-79.934582804"
+  },
+  {
+    "nombre": "losangeles",
+    "ubicación": "-2.2122207609,-80.0737908021"
+  },
+  {
+    "nombre": "losvergeles",
+    "ubicación": "-2.0985908819,-79.9101209044"
+  },
+  {
+    "nombre": "lote4",
+    "ubicación": "-2.090420775,-79.9229635496"
+  },
+  {
+    "nombre": "lotesiete",
+    "ubicación": "-2.0871984157,-79.9271441323"
+  },
+  {
+    "nombre": "luque",
+    "ubicación": "-2.1908476916,-79.8908342051"
+  },
+  {
+    "nombre": "mabe",
+    "ubicación": "-2.0696992453,-79.941567848"
+  },
+  {
+    "nombre": "macara",
+    "ubicación": "-4.3858684012,-79.9481747375"
+  },
+  {
+    "nombre": "macaracen",
+    "ubicación": "-4.3793119368,-79.9446325418"
+  },
+  {
+    "nombre": "machaestadio",
+    "ubicación": "-3.2521119243,-79.9590775077"
+  },
+  {
+    "nombre": "machala",
+    "ubicación": "-3.2633745868,-79.958079819"
+  },
+  {
+    "nombre": "machala_2",
+    "ubicación": "-3.2712128965,-79.9330607358"
+  },
+  {
+    "nombre": "machala3",
+    "ubicación": "-3.2568979772,-79.9517406178"
+  },
+  {
+    "nombre": "machala3g",
+    "ubicación": "-3.2627432916,-79.9586048123"
+  },
+  {
+    "nombre": "machala4",
+    "ubicación": "-3.2565780307,-79.961002663"
+  },
+  {
+    "nombre": "machalacen",
+    "ubicación": "-3.2602324608,-79.9594034661"
+  },
+  {
+    "nombre": "machalacirc",
+    "ubicación": "-3.2479659659,-79.9701348193"
+  },
+  {
+    "nombre": "machalalibre",
+    "ubicación": "-3.2467342898,-79.9379267148"
+  },
+  {
+    "nombre": "machalalimon",
+    "ubicación": "-3.2625723201,-79.9433266762"
+  },
+  {
+    "nombre": "machalalineal",
+    "ubicación": "-3.263640094,-79.9726306306"
+  },
+  {
+    "nombre": "machalamall",
+    "ubicación": "-3.2810706179,-79.9318041365"
+  },
+  {
+    "nombre": "machalamotors",
+    "ubicación": "-3.2731110475,-79.9425229796"
+  },
+  {
+    "nombre": "machalanor",
+    "ubicación": "-3.250280793,-79.9657001781"
+  },
+  {
+    "nombre": "machalasur",
+    "ubicación": "-3.2783810203,-79.9624304896"
+  },
+  {
+    "nombre": "machalasure",
+    "ubicación": "-3.2745155219,-79.9524004282"
+  },
+  {
+    "nombre": "machaparais",
+    "ubicación": "-3.2493102043,-79.9507770871"
+  },
+  {
+    "nombre": "malacatuscen",
+    "ubicación": "-4.2188348976,-79.2603287765"
+  },
+  {
+    "nombre": "malaga_2",
+    "ubicación": "-2.0142111895,-79.8654451892"
+  },
+  {
+    "nombre": "malcivar",
+    "ubicación": "-2.1599569044,-79.8939758326"
+  },
+  {
+    "nombre": "malecon2000",
+    "ubicación": "-2.1941314374,-79.879876462"
+  },
+  {
+    "nombre": "mall_del_sol",
+    "ubicación": "-2.1571080415,-79.8898467617"
+  },
+  {
+    "nombre": "malldelsol2",
+    "ubicación": "-2.1548350959,-79.8916178878"
+  },
+  {
+    "nombre": "malldelsur",
+    "ubicación": "-2.2319795689,-79.900631404"
+  },
+  {
+    "nombre": "malldelsur2",
+    "ubicación": "-2.2293760739,-79.8983425999"
+  },
+  {
+    "nombre": "mallfortin",
+    "ubicación": "-2.1095862067,-79.9493138791"
+  },
+  {
+    "nombre": "mallnortein",
+    "ubicación": "-2.0960254482,-79.9127701318"
+  },
+  {
+    "nombre": "mallrioin",
+    "ubicación": "-2.9186325554,-79.0149445164"
+  },
+  {
+    "nombre": "mallrioout",
+    "ubicación": "-2.918006988,-79.0142770077"
+  },
+  {
+    "nombre": "mamey",
+    "ubicación": "-2.3723838616,-80.3315904148"
+  },
+  {
+    "nombre": "manabi_roca",
+    "ubicación": "-0.9250967969,-80.4875637507"
+  },
+  {
+    "nombre": "manacentro",
+    "ubicación": "-0.9406674978,-79.2247589457"
+  },
+  {
+    "nombre": "mananorte",
+    "ubicación": "-0.9343562071,-79.2232266394"
+  },
+  {
+    "nombre": "manantial",
+    "ubicación": "-2.1698117625,-79.9102264975"
+  },
+  {
+    "nombre": "manaoeste",
+    "ubicación": "-0.9415409184,-79.2520338493"
+  },
+  {
+    "nombre": "mandela",
+    "ubicación": "-2.2190276097,-79.9236747454"
+  },
+  {
+    "nombre": "mandelac15",
+    "ubicación": "-2.223376183,-79.9223916021"
+  },
+  {
+    "nombre": "manglaralto",
+    "ubicación": "-1.8515620629,-80.7424932213"
+  },
+  {
+    "nombre": "manta",
+    "ubicación": "-0.9543683058,-80.7270315001"
+  },
+  {
+    "nombre": "manta_4",
+    "ubicación": "-0.9530615588,-80.7015953419"
+  },
+  {
+    "nombre": "manta_jacinto",
+    "ubicación": "-0.9909072891,-80.70294866"
+  },
+  {
+    "nombre": "manta_jocay2",
+    "ubicación": "-0.9631704646,-80.7174377924"
+  },
+  {
+    "nombre": "manta_sur",
+    "ubicación": "-0.9849030359,-80.7054150562"
+  },
+  {
+    "nombre": "manta2",
+    "ubicación": "-1.0185541959,-80.6817282041"
+  },
+  {
+    "nombre": "manta20demayo",
+    "ubicación": "-0.9715139308,-80.716653579"
+  },
+  {
+    "nombre": "mantaaneta",
+    "ubicación": "-0.9465923576,-80.7523151351"
+  },
+  {
+    "nombre": "mantaarroyo",
+    "ubicación": "-0.9811917365,-80.6850235457"
+  },
+  {
+    "nombre": "mantabase",
+    "ubicación": "-0.9528731686,-80.6699872393"
+  },
+  {
+    "nombre": "mantabosque",
+    "ubicación": "-0.9606386324,-80.6833933746"
+  },
+  {
+    "nombre": "mantacap",
+    "ubicación": "-0.9431659341,-80.7290312334"
+  },
+  {
+    "nombre": "mantacentro",
+    "ubicación": "-0.946508958,-80.7247051047"
+  },
+  {
+    "nombre": "mantacirc",
+    "ubicación": "-0.971754325,-80.6800828841"
+  },
+  {
+    "nombre": "mantaclara",
+    "ubicación": "-0.9726860338,-80.7034102084"
+  },
+  {
+    "nombre": "mantaconde",
+    "ubicación": "-0.9603102387,-80.7414189142"
+  },
+  {
+    "nombre": "mantacristi",
+    "ubicación": "-0.9930439172,-80.680036982"
+  },
+  {
+    "nombre": "mantacumbre",
+    "ubicación": "-0.9682056469,-80.7228288809"
+  },
+  {
+    "nombre": "mantadavinci",
+    "ubicación": "-0.9564859673,-80.7685529082"
+  },
+  {
+    "nombre": "mantaestadio",
+    "ubicación": "-0.9643533078,-80.6993667161"
+  },
+  {
+    "nombre": "mantaeste",
+    "ubicación": "-0.9541353934,-80.7105869988"
+  },
+  {
+    "nombre": "mantafabril",
+    "ubicación": "-0.9942999357,-80.692731015"
+  },
+  {
+    "nombre": "mantahmayo",
+    "ubicación": "-0.9872404149,-80.6935072477"
+  },
+  {
+    "nombre": "mantajara",
+    "ubicación": "-0.9543435296,-80.6549022795"
+  },
+  {
+    "nombre": "mantajocay",
+    "ubicación": "-0.9780783598,-80.6948505428"
+  },
+  {
+    "nombre": "mantamira",
+    "ubicación": "-0.9564589031,-80.7174845387"
+  },
+  {
+    "nombre": "mantaocc",
+    "ubicación": "-0.9627032907,-80.7586739413"
+  },
+  {
+    "nombre": "mantapampa",
+    "ubicación": "-1.0035487071,-80.6908278381"
+  },
+  {
+    "nombre": "mantapatricio",
+    "ubicación": "-0.9971798274,-80.6876277228"
+  },
+  {
+    "nombre": "mantasenderos",
+    "ubicación": "-0.9947302707,-80.7250604946"
+  },
+  {
+    "nombre": "mantasuroeste",
+    "ubicación": "-1.0018957232,-80.7156456313"
+  },
+  {
+    "nombre": "mantatarqui",
+    "ubicación": "-0.9522801374,-80.7159587794"
+  },
+  {
+    "nombre": "mantauni",
+    "ubicación": "-0.9565692378,-80.7449851755"
+  },
+  {
+    "nombre": "mantnorte",
+    "ubicación": "-0.9503846853,-80.7287021918"
+  },
+  {
+    "nombre": "mapasin3g",
+    "ubicación": "-2.1613936936,-79.9332751888"
+  },
+  {
+    "nombre": "mapasineste",
+    "ubicación": "-2.155737145,-79.927045287"
+  },
+  {
+    "nombre": "mapasingue",
+    "ubicación": "-2.1561434247,-79.934483758"
+  },
+  {
+    "nombre": "mapasisur",
+    "ubicación": "-2.1573339227,-79.9239334722"
+  },
+  {
+    "nombre": "mapfre",
+    "ubicación": "-2.1629687165,-79.8986359316"
+  },
+  {
+    "nombre": "maracaibo",
+    "ubicación": "-2.2026794718,-79.9351548224"
+  },
+  {
+    "nombre": "marbelize",
+    "ubicación": "-0.9706351432,-80.6568737394"
+  },
+  {
+    "nombre": "marbravo",
+    "ubicación": "-2.2618090431,-80.9220165787"
+  },
+  {
+    "nombre": "marcelino",
+    "ubicación": "-2.2109630469,-79.4284533491"
+  },
+  {
+    "nombre": "marcelinocen",
+    "ubicación": "-2.2128438822,-79.438969758"
+  },
+  {
+    "nombre": "marisucre",
+    "ubicación": "-2.1067026772,-79.5108372932"
+  },
+  {
+    "nombre": "martesanal",
+    "ubicación": "-2.1855113644,-79.8796689655"
+  },
+  {
+    "nombre": "martharoldos",
+    "ubicación": "-2.1412604935,-79.9171491862"
+  },
+  {
+    "nombre": "maternidad",
+    "ubicación": "-2.1773589836,-79.8858614621"
+  },
+  {
+    "nombre": "matices",
+    "ubicación": "-2.0571279716,-79.8776343635"
+  },
+  {
+    "nombre": "maxisalinas",
+    "ubicación": "-2.2191073813,-80.9466681615"
+  },
+  {
+    "nombre": "mcristicity",
+    "ubicación": "-1.0456444702,-80.6593058189"
+  },
+  {
+    "nombre": "megacentro",
+    "ubicación": "-2.1915277949,-79.8813565344"
+  },
+  {
+    "nombre": "mercedarias",
+    "ubicación": "-2.1773982783,-79.902004161"
+  },
+  {
+    "nombre": "mercentral",
+    "ubicación": "-2.1931365116,-79.8879335875"
+  },
+  {
+    "nombre": "mersalinas",
+    "ubicación": "-2.2054923333,-80.9764065846"
+  },
+  {
+    "nombre": "mersauces9w08",
+    "ubicación": "-2.1291273403,-79.8935930234"
+  },
+  {
+    "nombre": "mestrella",
+    "ubicación": "-2.8993745842,-79.0322281812"
+  },
+  {
+    "nombre": "metropolis",
+    "ubicación": "-2.0644635152,-79.8987018535"
+  },
+  {
+    "nombre": "metrosala",
+    "ubicación": "-2.1851832417,-79.8956942318"
+  },
+  {
+    "nombre": "metroverde",
+    "ubicación": "-2.1890703961,-79.8918394198"
+  },
+  {
+    "nombre": "milagro_1",
+    "ubicación": "-2.1271319758,-79.5979656162"
+  },
+  {
+    "nombre": "milagro_2",
+    "ubicación": "-2.1406524299,-79.5862313962"
+  },
+  {
+    "nombre": "milagro3",
+    "ubicación": "-2.1231077644,-79.5835738047"
+  },
+  {
+    "nombre": "milagro3",
+    "ubicación": "-2.1231077644,-79.5835738047"
+  },
+  {
+    "nombre": "milagroadum",
+    "ubicación": "-2.1626482444,-79.5756032947"
+  },
+  {
+    "nombre": "milagrocen",
+    "ubicación": "-2.1336423409,-79.5906415173"
+  },
+  {
+    "nombre": "milagrololita",
+    "ubicación": "-2.1178519036,-79.5800312672"
+  },
+  {
+    "nombre": "milagromer",
+    "ubicación": "-2.1282786426,-79.5909612335"
+  },
+  {
+    "nombre": "milagromiguel",
+    "ubicación": "-2.1352062114,-79.5768824276"
+  },
+  {
+    "nombre": "milagronew",
+    "ubicación": "-2.133903199,-79.5964803801"
+  },
+  {
+    "nombre": "milagronor",
+    "ubicación": "-2.1198235394,-79.5920076756"
+  },
+  {
+    "nombre": "milagronore",
+    "ubicación": "-2.1252516848,-79.5924326755"
+  },
+  {
+    "nombre": "milagropina",
+    "ubicación": "-2.1452875624,-79.5745160267"
+  },
+  {
+    "nombre": "milagropina2",
+    "ubicación": "-2.1530116653,-79.5805966629"
+  },
+  {
+    "nombre": "milagroso2",
+    "ubicación": "-2.135275785,-79.6127701264"
+  },
+  {
+    "nombre": "milagrosocc",
+    "ubicación": "-2.135624029,-79.6040657126"
+  },
+  {
+    "nombre": "milagrosur",
+    "ubicación": "-2.1435670797,-79.6014907962"
+  },
+  {
+    "nombre": "milagrotenis",
+    "ubicación": "-2.1625843814,-79.6056543634"
+  },
+  {
+    "nombre": "milagrouni",
+    "ubicación": "-2.1538385881,-79.6026825945"
+  },
+  {
+    "nombre": "milan",
+    "ubicación": "-2.0418417363,-79.8704194266"
+  },
+  {
+    "nombre": "milaviveros",
+    "ubicación": "-2.1639119049,-79.5492502549"
+  },
+  {
+    "nombre": "milina",
+    "ubicación": "-2.226945433,-80.9360698815"
+  },
+  {
+    "nombre": "milote_1",
+    "ubicación": "-2.0562274284,-79.9761783799"
+  },
+  {
+    "nombre": "milote2",
+    "ubicación": "-2.058753611,-79.9825847775"
+  },
+  {
+    "nombre": "mirador",
+    "ubicación": "-0.9494341883,-80.725161933"
+  },
+  {
+    "nombre": "miraflora",
+    "ubicación": "-2.8840424725,-79.0029927367"
+  },
+  {
+    "nombre": "misicata",
+    "ubicación": "-2.906339661,-79.047243513"
+  },
+  {
+    "nombre": "mlaniado",
+    "ubicación": "-2.084780057,-79.9295306546"
+  },
+  {
+    "nombre": "mlaureles",
+    "ubicación": "-2.1226731036,-79.5794746244"
+  },
+  {
+    "nombre": "mocache",
+    "ubicación": "-1.1855810328,-79.5053912087"
+  },
+  {
+    "nombre": "mocache2",
+    "ubicación": "-1.1909806749,-79.5024559156"
+  },
+  {
+    "nombre": "mocoli",
+    "ubicación": "-2.0985656398,-79.8626390758"
+  },
+  {
+    "nombre": "mocoli2",
+    "ubicación": "-2.1054303899,-79.8604958985"
+  },
+  {
+    "nombre": "mocolisur",
+    "ubicación": "-2.1123685674,-79.857557178"
+  },
+  {
+    "nombre": "mogollon",
+    "ubicación": "-2.22880968,-79.9388238635"
+  },
+  {
+    "nombre": "montalvo",
+    "ubicación": "-1.7808466566,-79.2867166117"
+  },
+  {
+    "nombre": "montalvo",
+    "ubicación": "-1.7808466566,-79.2867166117"
+  },
+  {
+    "nombre": "montalvocen",
+    "ubicación": "-1.7897839147,-79.2914795194"
+  },
+  {
+    "nombre": "montalvocen",
+    "ubicación": "-1.7897839147,-79.2914795194"
+  },
+  {
+    "nombre": "montañita",
+    "ubicación": "-1.8270909546,-80.7533696053"
+  },
+  {
+    "nombre": "montebabor",
+    "ubicación": "-2.0396932251,-79.8571016961"
+  },
+  {
+    "nombre": "montebello",
+    "ubicación": "-2.0949895439,-79.9372999109"
+  },
+  {
+    "nombre": "montecristi",
+    "ubicación": "-1.0513956,-80.648230808"
+  },
+  {
+    "nombre": "montesinai",
+    "ubicación": "-2.1285131184,-79.9942572075"
+  },
+  {
+    "nombre": "montetabor_2",
+    "ubicación": "-2.0292141062,-79.8692356853"
+  },
+  {
+    "nombre": "monteverde",
+    "ubicación": "-2.0189963976,-80.7396107283"
+  },
+  {
+    "nombre": "monteverdecen",
+    "ubicación": "-2.053764557,-80.731778236"
+  },
+  {
+    "nombre": "movistar",
+    "ubicación": "-2.1799917128,-79.882876797"
+  },
+  {
+    "nombre": "mpolis",
+    "ubicación": "-2.0650860871,-79.9154394874"
+  },
+  {
+    "nombre": "msalado",
+    "ubicación": "-2.1908168246,-79.8958683658"
+  },
+  {
+    "nombre": "msalinas",
+    "ubicación": "-2.2038660958,-80.9759655362"
+  },
+  {
+    "nombre": "msanjose",
+    "ubicación": "-2.1436370135,-79.5928360162"
+  },
+  {
+    "nombre": "msingueste",
+    "ubicación": "-2.1479179847,-79.9198537251"
+  },
+  {
+    "nombre": "mucholote",
+    "ubicación": "-2.0855952367,-79.9193221237"
+  },
+  {
+    "nombre": "muey",
+    "ubicación": "-2.2450475557,-80.9210765744"
+  },
+  {
+    "nombre": "muralla",
+    "ubicación": "-2.088861722,-79.931118116"
+  },
+  {
+    "nombre": "muralla",
+    "ubicación": "-2.088861722,-79.931118116"
+  },
+  {
+    "nombre": "murano",
+    "ubicación": "-2.0159340746,-79.9250833799"
+  },
+  {
+    "nombre": "mvaldez",
+    "ubicación": "-2.1320304199,-79.6056783324"
+  },
+  {
+    "nombre": "mzapallo",
+    "ubicación": "-0.446998823,-79.9924049643"
+  },
+  {
+    "nombre": "nacunidas",
+    "ubicación": "-2.2380322956,-79.9146959001"
+  },
+  {
+    "nombre": "nap_texcumar",
+    "ubicación": "-2.1062882985,-80.7486831723"
+  },
+  {
+    "nombre": "naranjal",
+    "ubicación": "-2.5965781252,-79.604492476"
+  },
+  {
+    "nombre": "naranjalciu",
+    "ubicación": "-2.6728789088,-79.6166267636"
+  },
+  {
+    "nombre": "naranjalsuroeste",
+    "ubicación": "-2.6783765469,-79.6216178414"
+  },
+  {
+    "nombre": "naranjito",
+    "ubicación": "-2.1714394978,-79.4556068983"
+  },
+  {
+    "nombre": "naranjitoce",
+    "ubicación": "-2.1698878273,-79.4620116082"
+  },
+  {
+    "nombre": "naranjitono",
+    "ubicación": "-2.1659563388,-79.4717020449"
+  },
+  {
+    "nombre": "naranjitonorte",
+    "ubicación": "-2.1607879015,-79.4617096678"
+  },
+  {
+    "nombre": "naranjitosur",
+    "ubicación": "-2.1735481738,-79.468769768"
+  },
+  {
+    "nombre": "navalnorte",
+    "ubicación": "-2.1803630968,-79.8901448522"
+  },
+  {
+    "nombre": "nigeria",
+    "ubicación": "-2.2342020902,-79.9193208586"
+  },
+  {
+    "nombre": "nobolcity",
+    "ubicación": "-1.9138186027,-80.0137311502"
+  },
+  {
+    "nombre": "nortondanesa",
+    "ubicación": "-2.1481377587,-79.3952363041"
+  },
+  {
+    "nombre": "noruega",
+    "ubicación": "-2.1195673054,-79.5882482158"
+  },
+  {
+    "nombre": "November4",
+    "ubicación": "-0.9609321658,-80.7100165858"
+  },
+  {
+    "nombre": "nueva_union",
+    "ubicación": "-2.829211652,-78.8030574074"
+  },
+  {
+    "nombre": "nuevaflor",
+    "ubicación": "-2.096816631,-79.9640324064"
+  },
+  {
+    "nombre": "nuevaprospe",
+    "ubicación": "-2.1211948662,-79.9654039868"
+  },
+  {
+    "nombre": "nueve_de_octubre",
+    "ubicación": "-2.1918382998,-79.8824432629"
+  },
+  {
+    "nombre": "nuevocarmen",
+    "ubicación": "-2.1886856611,-79.8829646201"
+  },
+  {
+    "nombre": "nutec",
+    "ubicación": "-2.1216304189,-79.9474842951"
+  },
+  {
+    "nombre": "nvoempalme",
+    "ubicación": "-1.0421449046,-79.6405835838"
+  },
+  {
+    "nombre": "oasisgye",
+    "ubicación": "-2.0489412002,-79.9487967407"
+  },
+  {
+    "nombre": "oceanclub",
+    "ubicación": "-2.6438459261,-80.4216353077"
+  },
+  {
+    "nombre": "oestetrini",
+    "ubicación": "-2.2348701444,-79.9310378358"
+  },
+  {
+    "nombre": "olimpo",
+    "ubicación": "-2.1745377762,-79.895329851"
+  },
+  {
+    "nombre": "olmedo",
+    "ubicación": "-2.1983948313,-79.8877772872"
+  },
+  {
+    "nombre": "olon",
+    "ubicación": "-1.8141747954,-80.7557129329"
+  },
+  {
+    "nombre": "oloncity",
+    "ubicación": "-1.7940574296,-80.7555055079"
+  },
+  {
+    "nombre": "oporto",
+    "ubicación": "-2.2003904896,-80.0602871461"
+  },
+  {
+    "nombre": "ordoñez",
+    "ubicación": "-2.8881454194,-79.0455919788"
+  },
+  {
+    "nombre": "orellana",
+    "ubicación": "-2.1610603037,-79.8995043079"
+  },
+  {
+    "nombre": "oroplaza",
+    "ubicación": "-3.2819965144,-79.9293588448"
+  },
+  {
+    "nombre": "oroverde",
+    "ubicación": "-2.8857055232,-79.0316971868"
+  },
+  {
+    "nombre": "oroverdegyesur",
+    "ubicación": "-2.1942835243,-79.8935652436"
+  },
+  {
+    "nombre": "orquideas_2",
+    "ubicación": "-2.098077765,-79.920579318"
+  },
+  {
+    "nombre": "pacifictelcorreo",
+    "ubicación": "-2.1941919122,-79.8823720578"
+  },
+  {
+    "nombre": "pajan2",
+    "ubicación": "-1.5536742686,-80.4290628006"
+  },
+  {
+    "nombre": "pajancity",
+    "ubicación": "-1.552417788,-80.4187155356"
+  },
+  {
+    "nombre": "pajaroazul",
+    "ubicación": "-2.1304873207,-79.9220663473"
+  },
+  {
+    "nombre": "palaciocristal",
+    "ubicación": "-2.2006336295,-79.8853723242"
+  },
+  {
+    "nombre": "palaciodecristal",
+    "ubicación": "-2.2028200127,-79.8830001911"
+  },
+  {
+    "nombre": "palenque",
+    "ubicación": "-1.4363587085,-79.7575995961"
+  },
+  {
+    "nombre": "palenque",
+    "ubicación": "-1.4363587085,-79.7575995961"
+  },
+  {
+    "nombre": "palesticity",
+    "ubicación": "-1.6278121245,-79.979124493"
+  },
+  {
+    "nombre": "palestina",
+    "ubicación": "-1.6074632586,-79.9758900427"
+  },
+  {
+    "nombre": "palmardelrio",
+    "ubicación": "-2.1210026159,-79.866561217"
+  },
+  {
+    "nombre": "panchoseg",
+    "ubicación": "-2.2212876113,-79.8941316792"
+  },
+  {
+    "nombre": "panguicen",
+    "ubicación": "-3.6266379629,-78.5885648283"
+  },
+  {
+    "nombre": "panorama2",
+    "ubicación": "-2.1880912559,-79.8228536412"
+  },
+  {
+    "nombre": "paquisha",
+    "ubicación": "-2.1352626178,-79.9071083424"
+  },
+  {
+    "nombre": "paraiso",
+    "ubicación": "-2.1691603421,-79.9200037202"
+  },
+  {
+    "nombre": "paraisodelrio",
+    "ubicación": "-2.0645058205,-79.8895639929"
+  },
+  {
+    "nombre": "paraisose",
+    "ubicación": "-2.240392094,-80.929654553"
+  },
+  {
+    "nombre": "parking",
+    "ubicación": "-2.1934590123,-79.8809803282"
+  },
+  {
+    "nombre": "parquedelapaz",
+    "ubicación": "-2.050030831,-79.9064562146"
+  },
+  {
+    "nombre": "parqueextremo",
+    "ubicación": "-3.2730492592,-79.2585313115"
+  },
+  {
+    "nombre": "parqueind",
+    "ubicación": "-2.8770470013,-78.9843536967"
+  },
+  {
+    "nombre": "parqueind2",
+    "ubicación": "-2.8727566074,-78.9785778567"
+  },
+  {
+    "nombre": "parquevsanto",
+    "ubicación": "-2.2480032443,-79.9102807716"
+  },
+  {
+    "nombre": "parra",
+    "ubicación": "-2.2132877677,-79.9430045496"
+  },
+  {
+    "nombre": "parravelasco",
+    "ubicación": "-2.126497841,-79.8940494923"
+  },
+  {
+    "nombre": "pasaje",
+    "ubicación": "-3.3219940666,-79.800967502"
+  },
+  {
+    "nombre": "pasajecity",
+    "ubicación": "-3.3264832828,-79.8064039677"
+  },
+  {
+    "nombre": "pasajenor",
+    "ubicación": "-3.3202993164,-79.8125592107"
+  },
+  {
+    "nombre": "pasajesur",
+    "ubicación": "-3.3419452238,-79.8099380144"
+  },
+  {
+    "nombre": "pascuales",
+    "ubicación": "-2.0724421895,-79.9314609876"
+  },
+  {
+    "nombre": "pascualescen",
+    "ubicación": "-2.0684705345,-79.9265234361"
+  },
+  {
+    "nombre": "paseoplayas",
+    "ubicación": "-2.6435568324,-80.385135882"
+  },
+  {
+    "nombre": "paseosurin",
+    "ubicación": "-2.2420100429,-79.8941119344"
+  },
+  {
+    "nombre": "paute",
+    "ubicación": "-2.7799800291,-78.7571238253"
+  },
+  {
+    "nombre": "pazuldos",
+    "ubicación": "-2.1946174693,-79.961860555"
+  },
+  {
+    "nombre": "pazultres",
+    "ubicación": "-2.1885312806,-79.9606665044"
+  },
+  {
+    "nombre": "pbalda",
+    "ubicación": "-0.9665005817,-80.7045076846"
+  },
+  {
+    "nombre": "pblanca",
+    "ubicación": "-2.1540102056,-80.7913225132"
+  },
+  {
+    "nombre": "pcarbo",
+    "ubicación": "-1.8378590448,-80.2240171859"
+  },
+  {
+    "nombre": "pcarbocity",
+    "ubicación": "-1.8187020485,-80.2320427429"
+  },
+  {
+    "nombre": "PCCS",
+    "ubicación": "-0.9575055133,-80.7540667968"
+  },
+  {
+    "nombre": "pcentenario",
+    "ubicación": "-2.1887256482,-79.8860217068"
+  },
+  {
+    "nombre": "pcentinela",
+    "ubicación": "-2.1573371716,-80.810957337"
+  },
+  {
+    "nombre": "pcolon",
+    "ubicación": "-2.1520236004,-79.9079918329"
+  },
+  {
+    "nombre": "pdelrionoe",
+    "ubicación": "-2.1545894527,-79.8361303338"
+  },
+  {
+    "nombre": "peaje",
+    "ubicación": "-2.1993321981,-80.0486890702"
+  },
+  {
+    "nombre": "penonrio",
+    "ubicación": "-2.1484938267,-79.8377823731"
+  },
+  {
+    "nombre": "penriquez",
+    "ubicación": "-3.0601166435,-79.7476136536"
+  },
+  {
+    "nombre": "penriquezeste",
+    "ubicación": "-3.061396524,-79.7415569243"
+  },
+  {
+    "nombre": "penriqueznor",
+    "ubicación": "-3.054833333,-79.745083333"
+  },
+  {
+    "nombre": "perezperasso",
+    "ubicación": "-2.1825706732,-79.9311136844"
+  },
+  {
+    "nombre": "peridaule",
+    "ubicación": "-2.0854197545,-79.9440696958"
+  },
+  {
+    "nombre": "perimangl",
+    "ubicación": "-2.21934748,-79.9477337"
+  },
+  {
+    "nombre": "perimanta",
+    "ubicación": "-0.9770643482,-80.721573182"
+  },
+  {
+    "nombre": "perimanta2",
+    "ubicación": "-0.9809673242,-80.7174168321"
+  },
+  {
+    "nombre": "perimenor",
+    "ubicación": "-2.1462068969,-79.9412513837"
+  },
+  {
+    "nombre": "perimesur",
+    "ubicación": "-2.2386806115,-79.9067542984"
+  },
+  {
+    "nombre": "perimetral",
+    "ubicación": "-2.1238441584,-79.9352163455"
+  },
+  {
+    "nombre": "petrillo",
+    "ubicación": "-1.9659839699,-80.0091160385"
+  },
+  {
+    "nombre": "petroecuador",
+    "ubicación": "-2.1711874531,-79.9398918878"
+  },
+  {
+    "nombre": "phistorico",
+    "ubicación": "-2.1454987153,-79.867560962"
+  },
+  {
+    "nombre": "piazzaclub",
+    "ubicación": "-2.0485577384,-79.8907119384"
+  },
+  {
+    "nombre": "picoaza",
+    "ubicación": "-1.0379525292,-80.4842016535"
+  },
+  {
+    "nombre": "picoazacent",
+    "ubicación": "-1.036130762,-80.492074002"
+  },
+  {
+    "nombre": "piedrahita",
+    "ubicación": "-2.1840799224,-79.8909360955"
+  },
+  {
+    "nombre": "piñas",
+    "ubicación": "-3.6894454245,-79.659246509"
+  },
+  {
+    "nombre": "piñascen",
+    "ubicación": "-3.6784463766,-79.6861353921"
+  },
+  {
+    "nombre": "piñascity",
+    "ubicación": "-3.6809512923,-79.6809001585"
+  },
+  {
+    "nombre": "pio",
+    "ubicación": "-2.2404506636,-79.8979437531"
+  },
+  {
+    "nombre": "pjacome",
+    "ubicación": "-2.1270860848,-79.9472589508"
+  },
+  {
+    "nombre": "pjguayas",
+    "ubicación": "-2.1966981456,-79.9346426734"
+  },
+  {
+    "nombre": "pjusticia",
+    "ubicación": "-2.1894651619,-79.8903351169"
+  },
+  {
+    "nombre": "planetario",
+    "ubicación": "-2.2709936739,-79.8955879061"
+  },
+  {
+    "nombre": "plasticopica",
+    "ubicación": "-2.1200032502,-79.9322581522"
+  },
+  {
+    "nombre": "plastlit",
+    "ubicación": "-2.1038558128,-79.9346214772"
+  },
+  {
+    "nombre": "plateado",
+    "ubicación": "-3.9840501148,-79.2373938978"
+  },
+  {
+    "nombre": "playacentro",
+    "ubicación": "-2.6316180768,-80.3979718412"
+  },
+  {
+    "nombre": "playaeste",
+    "ubicación": "-2.633603697,-80.3900910596"
+  },
+  {
+    "nombre": "playas",
+    "ubicación": "-2.629253082,-80.4053389854"
+  },
+  {
+    "nombre": "playashosp",
+    "ubicación": "-2.6341236476,-80.378386225"
+  },
+  {
+    "nombre": "playasnor",
+    "ubicación": "-2.6265940318,-80.3934861331"
+  },
+  {
+    "nombre": "playasure",
+    "ubicación": "-2.6382091673,-80.3865657029"
+  },
+  {
+    "nombre": "plaza_milan",
+    "ubicación": "-2.0371358671,-79.8706297959"
+  },
+  {
+    "nombre": "plazacenter",
+    "ubicación": "-2.1649962581,-79.8941975396"
+  },
+  {
+    "nombre": "plazacuenca",
+    "ubicación": "-2.8894109292,-79.0213550952"
+  },
+  {
+    "nombre": "plazamayor-alborada",
+    "ubicación": "-2.1394588988,-79.8979655241"
+  },
+  {
+    "nombre": "plazaquil",
+    "ubicación": "-2.1682659459,-79.8995369907"
+  },
+  {
+    "nombre": "pmaldonado",
+    "ubicación": "-2.1946092377,-79.9288955598"
+  },
+  {
+    "nombre": "pmenendez",
+    "ubicación": "-2.159485971,-79.8803445414"
+  },
+  {
+    "nombre": "pnova",
+    "ubicación": "-2.1295235826,-79.8643560308"
+  },
+  {
+    "nombre": "polarisw08",
+    "ubicación": "-2.1175785364,-79.8993734736"
+  },
+  {
+    "nombre": "portete",
+    "ubicación": "-2.1991538905,-79.9248835105"
+  },
+  {
+    "nombre": "portete",
+    "ubicación": "-2.1991538905,-79.9248835105"
+  },
+  {
+    "nombre": "portoaereo",
+    "ubicación": "-1.0524675771,-80.458038306"
+  },
+  {
+    "nombre": "portoalfaro",
+    "ubicación": "-1.044013143,-80.475533008"
+  },
+  {
+    "nombre": "portobella",
+    "ubicación": "-1.068601323,-80.477024363"
+  },
+  {
+    "nombre": "portocentro",
+    "ubicación": "-1.0534247337,-80.4549905895"
+  },
+  {
+    "nombre": "portocovent",
+    "ubicación": "-1.031757725,-80.477215717"
+  },
+  {
+    "nombre": "portocrm",
+    "ubicación": "-1.072353286,-80.444710878"
+  },
+  {
+    "nombre": "portoestadio",
+    "ubicación": "-1.049782862,-80.453055606"
+  },
+  {
+    "nombre": "portogregorio",
+    "ubicación": "-1.072447839,-80.496662137"
+  },
+  {
+    "nombre": "portogual",
+    "ubicación": "-1.0525076712,-80.4489364278"
+  },
+  {
+    "nombre": "portomamey",
+    "ubicación": "-1.064035434,-80.451812394"
+  },
+  {
+    "nombre": "portomejia",
+    "ubicación": "-1.057146333,-80.449234485"
+  },
+  {
+    "nombre": "porton",
+    "ubicación": "-2.1627166104,-79.9115664232"
+  },
+  {
+    "nombre": "portonew",
+    "ubicación": "-1.0570427583,-80.4559004827"
+  },
+  {
+    "nombre": "portonorte",
+    "ubicación": "-1.048796203,-80.458621731"
+  },
+  {
+    "nombre": "portopablo",
+    "ubicación": "-1.049880985,-80.445200227"
+  },
+  {
+    "nombre": "portopacheco",
+    "ubicación": "-1.057850692,-80.442026109"
+  },
+  {
+    "nombre": "portopaseo",
+    "ubicación": "-1.061551518,-80.465162827"
+  },
+  {
+    "nombre": "portosolc",
+    "ubicación": "-1.022326244,-80.4694224443"
+  },
+  {
+    "nombre": "portosucre",
+    "ubicación": "-1.060363,-80.451034"
+  },
+  {
+    "nombre": "portoterm",
+    "ubicación": "-1.0625792783,-80.4602683276"
+  },
+  {
+    "nombre": "portouni",
+    "ubicación": "-1.0462551044,-80.4560311889"
+  },
+  {
+    "nombre": "portovelo",
+    "ubicación": "-3.7155811479,-79.612384452"
+  },
+  {
+    "nombre": "portovera",
+    "ubicación": "-1.065558869,-80.468942625"
+  },
+  {
+    "nombre": "portovie3g",
+    "ubicación": "-1.0554714893,-80.4522439741"
+  },
+  {
+    "nombre": "posorja",
+    "ubicación": "-2.7136198236,-80.2489636864"
+  },
+  {
+    "nombre": "posorjacen",
+    "ubicación": "-2.7095824164,-80.2445518054"
+  },
+  {
+    "nombre": "posorjanor",
+    "ubicación": "-2.707472222,-80.251722222"
+  },
+  {
+    "nombre": "ppeninsula",
+    "ubicación": "-2.223871762,-80.9232129147"
+  },
+  {
+    "nombre": "ppilar",
+    "ubicación": "-0.6412396808,-79.4414035989"
+  },
+  {
+    "nombre": "previsora",
+    "ubicación": "-2.1920384076,-79.8800203099"
+  },
+  {
+    "nombre": "primavera",
+    "ubicación": "-2.1809214888,-79.8447733044"
+  },
+  {
+    "nombre": "primavera2",
+    "ubicación": "-2.1766141458,-79.8402137472"
+  },
+  {
+    "nombre": "primaveratres",
+    "ubicación": "-2.1748253999,-79.847029283"
+  },
+  {
+    "nombre": "primerodemayo",
+    "ubicación": "-2.1879404866,-79.8907739595"
+  },
+  {
+    "nombre": "procarsa",
+    "ubicación": "-2.2046128079,-79.8138051006"
+  },
+  {
+    "nombre": "proesa",
+    "ubicación": "-2.0899287505,-79.9407801501"
+  },
+  {
+    "nombre": "proesa2",
+    "ubicación": "-2.0757819193,-79.939934907"
+  },
+  {
+    "nombre": "professional",
+    "ubicación": "-2.1573883997,-79.8921928155"
+  },
+  {
+    "nombre": "progreso",
+    "ubicación": "-2.4004017887,-80.3637124091"
+  },
+  {
+    "nombre": "progreso2",
+    "ubicación": "-2.4227189979,-80.3859920304"
+  },
+  {
+    "nombre": "prospehill",
+    "ubicación": "-2.1256770056,-79.9671395614"
+  },
+  {
+    "nombre": "prospemer",
+    "ubicación": "-2.1408201678,-79.9406836902"
+  },
+  {
+    "nombre": "prosperina",
+    "ubicación": "-2.1373394602,-79.9362606908"
+  },
+  {
+    "nombre": "prueba",
+    "ubicación": "-0.959278,-80.736583"
+  },
+  {
+    "nombre": "psolano",
+    "ubicación": "-2.1863191874,-79.8917021269"
+  },
+  {
+    "nombre": "ptabarandua",
+    "ubicación": "-2.161590077,-80.818087799"
+  },
+  {
+    "nombre": "pto_maitimo",
+    "ubicación": "-2.2749316523,-79.9055510165"
+  },
+  {
+    "nombre": "ptobolivar",
+    "ubicación": "-3.2644736134,-79.9990608513"
+  },
+  {
+    "nombre": "ptojelicity",
+    "ubicación": "-3.4150949008,-79.9940385547"
+  },
+  {
+    "nombre": "ptolisasur",
+    "ubicación": "-2.2073014479,-79.9314025212"
+  },
+  {
+    "nombre": "ptomarit2",
+    "ubicación": "-2.2791034489,-79.9073574272"
+  },
+  {
+    "nombre": "ptoposorja",
+    "ubicación": "-2.6928088946,-80.2559716244"
+  },
+  {
+    "nombre": "ptosantana",
+    "ubicación": "-2.1800356286,-79.8746834504"
+  },
+  {
+    "nombre": "pueblo_viejo",
+    "ubicación": "-1.5831043595,-79.5370444232"
+  },
+  {
+    "nombre": "pueblo_viejo",
+    "ubicación": "-1.5831043595,-79.5370444232"
+  },
+  {
+    "nombre": "pueblonuevo",
+    "ubicación": "-1.958289508,-79.3992353538"
+  },
+  {
+    "nombre": "pueblonuevo",
+    "ubicación": "-1.958289508,-79.3992353538"
+  },
+  {
+    "nombre": "puente_a",
+    "ubicación": "-2.219434667,-79.917135775"
+  },
+  {
+    "nombre": "puentea2",
+    "ubicación": "-2.2200569036,-79.9101985845"
+  },
+  {
+    "nombre": "puerta negra",
+    "ubicación": "-1.8062315356,-79.4877014339"
+  },
+  {
+    "nombre": "puerta negra",
+    "ubicación": "-1.8062315356,-79.4877014339"
+  },
+  {
+    "nombre": "puerto_lisa",
+    "ubicación": "-2.2070420485,-79.9248802129"
+  },
+  {
+    "nombre": "puertoazul",
+    "ubicación": "-2.1895347127,-79.9722809229"
+  },
+  {
+    "nombre": "puntilla",
+    "ubicación": "-2.1549486004,-79.8683258703"
+  },
+  {
+    "nombre": "pviejocity",
+    "ubicación": "-1.5477856179,-79.5294324469"
+  },
+  {
+    "nombre": "pviejocity",
+    "ubicación": "-1.5477856179,-79.5294324469"
+  },
+  {
+    "nombre": "queguayacan",
+    "ubicación": "-1.0453223762,-79.4783463309"
+  },
+  {
+    "nombre": "queguaysur",
+    "ubicación": "-1.0491396361,-79.4795277582"
+  },
+  {
+    "nombre": "queolimpico",
+    "ubicación": "-1.0417174475,-79.4731858128"
+  },
+  {
+    "nombre": "queterminal",
+    "ubicación": "-1.0162940901,-79.4709643815"
+  },
+  {
+    "nombre": "queternor",
+    "ubicación": "-1.0094512605,-79.471300619"
+  },
+  {
+    "nombre": "quevecenor",
+    "ubicación": "-1.0252842936,-79.4659945019"
+  },
+  {
+    "nombre": "quevecentro",
+    "ubicación": "-1.0279686604,-79.4675643378"
+  },
+  {
+    "nombre": "quevedo",
+    "ubicación": "-1.022481717,-79.4686728433"
+  },
+  {
+    "nombre": "quevedo2",
+    "ubicación": "-1.0218576509,-79.4562545894"
+  },
+  {
+    "nombre": "quevedoac",
+    "ubicación": "-1.031547797,-79.4629421379"
+  },
+  {
+    "nombre": "quevedoeco",
+    "ubicación": "-1.0404244671,-79.4617711568"
+  },
+  {
+    "nombre": "quevedoeste",
+    "ubicación": "-1.0223320671,-79.4739667876"
+  },
+  {
+    "nombre": "quevedosur",
+    "ubicación": "-1.0364700554,-79.4692175588"
+  },
+  {
+    "nombre": "quevedosure",
+    "ubicación": "-1.0337252699,-79.4565255091"
+  },
+  {
+    "nombre": "queveisla",
+    "ubicación": "-1.0181779867,-79.4600250035"
+  },
+  {
+    "nombre": "quevenort2",
+    "ubicación": "-0.9914532844,-79.4714453291"
+  },
+  {
+    "nombre": "quevenorte",
+    "ubicación": "-1.004200634,-79.4670185663"
+  },
+  {
+    "nombre": "quevenuevo",
+    "ubicación": "-1.0245699663,-79.4670972311"
+  },
+  {
+    "nombre": "queveoeste",
+    "ubicación": "-1.0284933101,-79.4586459914"
+  },
+  {
+    "nombre": "quevepalmar",
+    "ubicación": "-1.0454934258,-79.4825967218"
+  },
+  {
+    "nombre": "quevepuente",
+    "ubicación": "-1.0490462464,-79.4672053532"
+  },
+  {
+    "nombre": "queveshop",
+    "ubicación": "-1.0102338074,-79.4694198384"
+  },
+  {
+    "nombre": "quintogua",
+    "ubicación": "-2.1064911521,-79.9264728948"
+  },
+  {
+    "nombre": "quisquis",
+    "ubicación": "-2.1864434716,-79.8947401019"
+  },
+  {
+    "nombre": "racar",
+    "ubicación": "-2.8663770221,-79.0393365554"
+  },
+  {
+    "nombre": "racar",
+    "ubicación": "-2.8663770221,-79.0393365554"
+  },
+  {
+    "nombre": "ramada",
+    "ubicación": "-2.1877998412,-79.8782216431"
+  },
+  {
+    "nombre": "ransa",
+    "ubicación": "-2.0122029618,-79.9607734665"
+  },
+  {
+    "nombre": "rastudillo",
+    "ubicación": "-2.1854662456,-79.5181568591"
+  },
+  {
+    "nombre": "rchavez",
+    "ubicación": "-2.1629340022,-79.904327496"
+  },
+  {
+    "nombre": "recreo4etp",
+    "ubicación": "-2.165609988,-79.7939544621"
+  },
+  {
+    "nombre": "recreodur",
+    "ubicación": "-2.1697964178,-79.8058861364"
+  },
+  {
+    "nombre": "redondel",
+    "ubicación": "-3.2685133328,-79.9466549389"
+  },
+  {
+    "nombre": "redondel",
+    "ubicación": "-0.707961537,-80.098374236"
+  },
+  {
+    "nombre": "redondel2",
+    "ubicación": "-3.2819937939,-79.9411362398"
+  },
+  {
+    "nombre": "remigiocr",
+    "ubicación": "-2.9062401856,-79.0068323388"
+  },
+  {
+    "nombre": "remigiocresnew",
+    "ubicación": "-2.910426117,-79.0027509"
+  },
+  {
+    "nombre": "remoto",
+    "ubicación": "-1.8037346856,-79.5234777491"
+  },
+  {
+    "nombre": "remoto",
+    "ubicación": "-1.8037346856,-79.5234777491"
+  },
+  {
+    "nombre": "remoto_babacensur",
+    "ubicación": "-1.8016610773,-79.5276279892"
+  },
+  {
+    "nombre": "remoto_babacensur",
+    "ubicación": "-1.8016610773,-79.5276279892"
+  },
+  {
+    "nombre": "remoto_mchipipe",
+    "ubicación": "-2.1975370247,-80.9835485406"
+  },
+  {
+    "nombre": "remoto_sambocountry",
+    "ubicación": "-2.0638675827,-79.8084305679"
+  },
+  {
+    "nombre": "repmapasingue",
+    "ubicación": "-2.151882584,-79.9188491963"
+  },
+  {
+    "nombre": "reppascuales",
+    "ubicación": "-2.081169589,-79.93139586"
+  },
+  {
+    "nombre": "resbalon",
+    "ubicación": "-0.965177368,-80.4339393138"
+  },
+  {
+    "nombre": "reub_bastionbloq1",
+    "ubicación": "-2.098366571,-79.9337030046"
+  },
+  {
+    "nombre": "reub_chile",
+    "ubicación": "-2.2033107942,-79.8847218311"
+  },
+  {
+    "nombre": "reubbahiasur",
+    "ubicación": "-0.633297222,-80.423836111"
+  },
+  {
+    "nombre": "reubnobol",
+    "ubicación": "-1.9203327746,-80.0153219398"
+  },
+  {
+    "nombre": "rgilbert",
+    "ubicación": "-2.1772746479,-79.8840647111"
+  },
+  {
+    "nombre": "ricacuenca1",
+    "ubicación": "-2.8699713869,-78.963344008"
+  },
+  {
+    "nombre": "ricacuenca2",
+    "ubicación": "-2.8611026243,-78.9630323986"
+  },
+  {
+    "nombre": "ricaurte",
+    "ubicación": "-1.3492470285,-80.5776569353"
+  },
+  {
+    "nombre": "ricaurtecen",
+    "ubicación": "-0.5808969543,-80.0410307929"
+  },
+  {
+    "nombre": "riocentro",
+    "ubicación": "-2.1754023502,-79.9436130615"
+  },
+  {
+    "nombre": "riocentro2",
+    "ubicación": "-2.178388889,-79.942036111"
+  },
+  {
+    "nombre": "riodaular",
+    "ubicación": "-2.2722045813,-80.1715477483"
+  },
+  {
+    "nombre": "rioguayas",
+    "ubicación": "-2.1650393663,-79.8799828728"
+  },
+  {
+    "nombre": "rioporto",
+    "ubicación": "-2.1201752404,-79.8721681361"
+  },
+  {
+    "nombre": "riosol",
+    "ubicación": "-2.8929576819,-78.9699724925"
+  },
+  {
+    "nombre": "rioverdese",
+    "ubicación": "-2.3038139719,-80.70430295"
+  },
+  {
+    "nombre": "rivemore",
+    "ubicación": "-2.1192765682,-79.8722696071"
+  },
+  {
+    "nombre": "riverario",
+    "ubicación": "-2.1440692518,-79.8619907091"
+  },
+  {
+    "nombre": "riveras_del batan",
+    "ubicación": "-2.0787673184,-79.8890582825"
+  },
+  {
+    "nombre": "riverfront",
+    "ubicación": "-2.1796371092,-79.8754364503"
+  },
+  {
+    "nombre": "riverpark",
+    "ubicación": "-2.1062727366,-79.8706473273"
+  },
+  {
+    "nombre": "rnorte",
+    "ubicación": "-2.1286197564,-79.9074465304"
+  },
+  {
+    "nombre": "roca",
+    "ubicación": "-2.1865877622,-79.8861603696"
+  },
+  {
+    "nombre": "rocafuert",
+    "ubicación": "-2.1898741262,-79.8800843832"
+  },
+  {
+    "nombre": "rosales_1",
+    "ubicación": "-2.1188359328,-79.9062695956"
+  },
+  {
+    "nombre": "rotonda",
+    "ubicación": "-2.1415457142,-79.9061874425"
+  },
+  {
+    "nombre": "rotondain",
+    "ubicación": "-2.1386918363,-79.9084865789"
+  },
+  {
+    "nombre": "rubira",
+    "ubicación": "-2.2114305039,-80.9550920081"
+  },
+  {
+    "nombre": "sabando",
+    "ubicación": "-1.0325331044,-80.4664459319"
+  },
+  {
+    "nombre": "sagrada",
+    "ubicación": "-2.2187345376,-79.9001410739"
+  },
+  {
+    "nombre": "saiba",
+    "ubicación": "-2.2284136973,-79.8931573639"
+  },
+  {
+    "nombre": "saintgallen",
+    "ubicación": "-2.1440761192,-79.9095917403"
+  },
+  {
+    "nombre": "salianasla",
+    "ubicación": "-2.2359004511,-80.9365097429"
+  },
+  {
+    "nombre": "salinas2",
+    "ubicación": "-2.232185856,-80.9234083095"
+  },
+  {
+    "nombre": "salitre",
+    "ubicación": "-1.8319476523,-79.8240904047"
+  },
+  {
+    "nombre": "salitrenore",
+    "ubicación": "-1.8280568432,-79.8096771262"
+  },
+  {
+    "nombre": "samanes",
+    "ubicación": "-2.111989463,-79.9008337959"
+  },
+  {
+    "nombre": "samanes5",
+    "ubicación": "-2.1145548682,-79.894840026"
+  },
+  {
+    "nombre": "samanes7",
+    "ubicación": "-2.1133537076,-79.9083641826"
+  },
+  {
+    "nombre": "samboaqua",
+    "ubicación": "-2.126076653,-79.8716652966"
+  },
+  {
+    "nombre": "sambocity",
+    "ubicación": "-1.9639519765,-79.7235661656"
+  },
+  {
+    "nombre": "sambocountry",
+    "ubicación": "-2.0683572412,-79.8127067574"
+  },
+  {
+    "nombre": "sambonor",
+    "ubicación": "-1.9608520586,-79.724407475"
+  },
+  {
+    "nombre": "sambonoroeste",
+    "ubicación": "-1.957802284,-79.7258242978"
+  },
+  {
+    "nombre": "sambosue",
+    "ubicación": "-1.9664113554,-79.7360160884"
+  },
+  {
+    "nombre": "san eduardo",
+    "ubicación": "-1.2693356092,-79.424866722"
+  },
+  {
+    "nombre": "san eduardo",
+    "ubicación": "-1.2693356092,-79.424866722"
+  },
+  {
+    "nombre": "san juan",
+    "ubicación": "-1.627917517,-79.5655981973"
+  },
+  {
+    "nombre": "san juan",
+    "ubicación": "-1.627917517,-79.5655981973"
+  },
+  {
+    "nombre": "san_alejo",
+    "ubicación": "-1.054300872,-80.485871108"
+  },
+  {
+    "nombre": "san_camilo",
+    "ubicación": "-1.0247930492,-79.4489956237"
+  },
+  {
+    "nombre": "san_carlos",
+    "ubicación": "-1.1229403175,-79.437589787"
+  },
+  {
+    "nombre": "san_gregorio",
+    "ubicación": "-1.3447977709,-80.5822416243"
+  },
+  {
+    "nombre": "san_jacinto",
+    "ubicación": "-2.1205651543,-79.9181493644"
+  },
+  {
+    "nombre": "san_joaquin",
+    "ubicación": "-2.8939828901,-79.0541834498"
+  },
+  {
+    "nombre": "san_marino",
+    "ubicación": "-2.1693052054,-79.8986603788"
+  },
+  {
+    "nombre": "san_pedro",
+    "ubicación": "-2.8769571762,-79.0248701644"
+  },
+  {
+    "nombre": "san_pedro_la_bendita",
+    "ubicación": "-3.9683476165,-79.4447260679"
+  },
+  {
+    "nombre": "san_vicente",
+    "ubicación": "-0.573669302,-80.418790158"
+  },
+  {
+    "nombre": "san_vicente sur",
+    "ubicación": "-0.599116617,-80.40551409"
+  },
+  {
+    "nombre": "sanaguayas",
+    "ubicación": "-2.5493443261,-80.3926351939"
+  },
+  {
+    "nombre": "sanandresgua",
+    "ubicación": "-2.3149608166,-80.2509539107"
+  },
+  {
+    "nombre": "sanjojujan",
+    "ubicación": "-1.8219981507,-79.5492006582"
+  },
+  {
+    "nombre": "sanjojujan",
+    "ubicación": "-1.8219981507,-79.5492006582"
+  },
+  {
+    "nombre": "sanjoselasalle",
+    "ubicación": "-2.1347343597,-79.916631247"
+  },
+  {
+    "nombre": "sanjuancity",
+    "ubicación": "-1.6249381184,-79.5610632874"
+  },
+  {
+    "nombre": "sanjuancity",
+    "ubicación": "-1.6249381184,-79.5610632874"
+  },
+  {
+    "nombre": "sanmartin3g",
+    "ubicación": "-3.2634379943,-79.9535609645"
+  },
+  {
+    "nombre": "sanpablose",
+    "ubicación": "-2.144712317,-80.773529743"
+  },
+  {
+    "nombre": "sanroldos",
+    "ubicación": "-2.2564099927,-79.9037549734"
+  },
+  {
+    "nombre": "santa_ana",
+    "ubicación": "-1.9292291044,-79.7635430007"
+  },
+  {
+    "nombre": "santa_cecilia_2",
+    "ubicación": "-2.1582146607,-79.9476789425"
+  },
+  {
+    "nombre": "santa_elena",
+    "ubicación": "-2.226671039,-80.8556112446"
+  },
+  {
+    "nombre": "santa_lucia",
+    "ubicación": "-1.7179530674,-79.988837686"
+  },
+  {
+    "nombre": "santacen",
+    "ubicación": "-1.2067375434,-80.3713128507"
+  },
+  {
+    "nombre": "santaclar",
+    "ubicación": "-2.2098487052,-79.9022387747"
+  },
+  {
+    "nombre": "santanacity",
+    "ubicación": "-1.2089667027,-80.3760671768"
+  },
+  {
+    "nombre": "santananor",
+    "ubicación": "-1.1380254252,-80.3920995687"
+  },
+  {
+    "nombre": "santarosa",
+    "ubicación": "-3.4528610939,-79.9666080546"
+  },
+  {
+    "nombre": "sanvicente3g",
+    "ubicación": "-0.5908614109,-80.4082012057"
+  },
+  {
+    "nombre": "sanvicenteuniver",
+    "ubicación": "-0.5874809961,-80.3924126957"
+  },
+  {
+    "nombre": "saracayoro",
+    "ubicación": "-3.6401509748,-79.8637086779"
+  },
+  {
+    "nombre": "sargenew",
+    "ubicación": "-1.8889278476,-80.0635945481"
+  },
+  {
+    "nombre": "sargentillo",
+    "ubicación": "-1.8731846768,-80.0969601701"
+  },
+  {
+    "nombre": "sauces",
+    "ubicación": "-2.1327983351,-79.8919592939"
+  },
+  {
+    "nombre": "sauces_6",
+    "ubicación": "-2.122412693,-79.8943823462"
+  },
+  {
+    "nombre": "sauces3",
+    "ubicación": "-2.1289366185,-79.8890438973"
+  },
+  {
+    "nombre": "sauces4",
+    "ubicación": "-2.1259516217,-79.89012662"
+  },
+  {
+    "nombre": "sauces8",
+    "ubicación": "-2.1302843912,-79.9045736899"
+  },
+  {
+    "nombre": "saucescinco",
+    "ubicación": "-2.1219815725,-79.8901664416"
+  },
+  {
+    "nombre": "sayausi",
+    "ubicación": "-2.8829534771,-79.0707286816"
+  },
+  {
+    "nombre": "sbguayas",
+    "ubicación": "-2.0024541479,-79.4900058833"
+  },
+  {
+    "nombre": "scala",
+    "ubicación": "-2.1172015729,-79.8718923368"
+  },
+  {
+    "nombre": "segovia",
+    "ubicación": "-2.210091172,-79.9083012528"
+  },
+  {
+    "nombre": "segurosbloq",
+    "ubicación": "-2.2124489514,-79.8981071532"
+  },
+  {
+    "nombre": "sergiotoral",
+    "ubicación": "-2.1061424098,-79.9897261369"
+  },
+  {
+    "nombre": "sergiotoral3",
+    "ubicación": "-2.1169161659,-79.9806698928"
+  },
+  {
+    "nombre": "sfernandoaz",
+    "ubicación": "-3.1493741028,-79.2613253208"
+  },
+  {
+    "nombre": "shelldaule",
+    "ubicación": "-2.158159414,-79.9297179423"
+  },
+  {
+    "nombre": "shopman",
+    "ubicación": "-0.9665287646,-80.7055522141"
+  },
+  {
+    "nombre": "shoppingbabahoyo",
+    "ubicación": "-1.8134213241,-79.5460859914"
+  },
+  {
+    "nombre": "shoppingbabahoyo",
+    "ubicación": "-1.8134213241,-79.5460859914"
+  },
+  {
+    "nombre": "shoppingduran",
+    "ubicación": "-2.1771773181,-79.8246935117"
+  },
+  {
+    "nombre": "sietelagos",
+    "ubicación": "-2.2471286164,-79.8867785476"
+  },
+  {
+    "nombre": "sigsigcity",
+    "ubicación": "-3.0508341847,-78.7944161984"
+  },
+  {
+    "nombre": "siloyola",
+    "ubicación": "-2.1270899521,-79.9765099555"
+  },
+  {
+    "nombre": "solcagye",
+    "ubicación": "-2.1758409039,-79.8817895414"
+  },
+  {
+    "nombre": "songa",
+    "ubicación": "-2.2871354678,-79.8586806859"
+  },
+  {
+    "nombre": "sopeña",
+    "ubicación": "-2.2241180504,-79.8991875265"
+  },
+  {
+    "nombre": "spondylus",
+    "ubicación": "-0.9631236122,-80.6719030956"
+  },
+  {
+    "nombre": "staelenaeste",
+    "ubicación": "-2.2367370673,-80.8563040553"
+  },
+  {
+    "nombre": "staelenatermi",
+    "ubicación": "-2.2182878482,-80.866014062"
+  },
+  {
+    "nombre": "stamonica",
+    "ubicación": "-2.2516144383,-79.8967022122"
+  },
+  {
+    "nombre": "starosacen",
+    "ubicación": "-3.4456779787,-79.9608952147"
+  },
+  {
+    "nombre": "starosacord",
+    "ubicación": "-3.4563776249,-79.9639338439"
+  },
+  {
+    "nombre": "starosasur",
+    "ubicación": "-3.4500704086,-79.9619326269"
+  },
+  {
+    "nombre": "starosasure",
+    "ubicación": "-3.4720120831,-79.9589060123"
+  },
+  {
+    "nombre": "stellamaris",
+    "ubicación": "-2.2640864364,-79.892452401"
+  },
+  {
+    "nombre": "storal2",
+    "ubicación": "-2.1107029132,-79.9952621838"
+  },
+  {
+    "nombre": "sub_estacion_1",
+    "ubicación": "-2.890283661,-79.0026035774"
+  },
+  {
+    "nombre": "sub_estacion_6",
+    "ubicación": "-2.8742951492,-79.0108571635"
+  },
+  {
+    "nombre": "sub_estacion5",
+    "ubicación": "-2.9100862803,-79.0388578045"
+  },
+  {
+    "nombre": "subestacion_2",
+    "ubicación": "-2.9300260895,-78.9971071278"
+  },
+  {
+    "nombre": "subestacion_4",
+    "ubicación": "-2.8758653046,-78.984268579"
+  },
+  {
+    "nombre": "subestacion_eercs",
+    "ubicación": "-2.9232983421,-79.0088933921"
+  },
+  {
+    "nombre": "subestacion_eercs",
+    "ubicación": "-2.905312481,-78.9835410563"
+  },
+  {
+    "nombre": "suburbio",
+    "ubicación": "-2.214868468,-79.9333877609"
+  },
+  {
+    "nombre": "suburbiooeste",
+    "ubicación": "-2.2133759252,-79.9276495749"
+  },
+  {
+    "nombre": "suburnor",
+    "ubicación": "-2.2060781865,-79.9385727839"
+  },
+  {
+    "nombre": "sucre",
+    "ubicación": "-2.2000030148,-79.8824401034"
+  },
+  {
+    "nombre": "sucre2",
+    "ubicación": "-2.1990004861,-79.8840725773"
+  },
+  {
+    "nombre": "tacrin",
+    "ubicación": "-2.1415802945,-79.9331151889"
+  },
+  {
+    "nombre": "tamayo",
+    "ubicación": "-2.1251084998,-79.8987148418"
+  },
+  {
+    "nombre": "tarifa",
+    "ubicación": "-1.9790875045,-79.756869347"
+  },
+  {
+    "nombre": "tctv",
+    "ubicación": "-2.1571465946,-79.8882652386"
+  },
+  {
+    "nombre": "tecnoespol",
+    "ubicación": "-2.1535757294,-79.9576104232"
+  },
+  {
+    "nombre": "teleamazonas",
+    "ubicación": "-2.1798713296,-79.882682759"
+  },
+  {
+    "nombre": "telxius-tiws1-twis2",
+    "ubicación": "-2.2488593345,-80.9203758255"
+  },
+  {
+    "nombre": "tennisclubgye",
+    "ubicación": "-2.1874604266,-79.8967712791"
+  },
+  {
+    "nombre": "teomaldonado",
+    "ubicación": "-2.1407797307,-79.8909014372"
+  },
+  {
+    "nombre": "terminal",
+    "ubicación": "-2.144618297,-79.8828613682"
+  },
+  {
+    "nombre": "terminalin",
+    "ubicación": "-2.1432908137,-79.8804914924"
+  },
+  {
+    "nombre": "terrasol",
+    "ubicación": "-2.084732642,-79.8731088764"
+  },
+  {
+    "nombre": "tes",
+    "ubicación": "-2.1506484937,-79.9121104555"
+  },
+  {
+    "nombre": "thepoint",
+    "ubicación": "-2.1784041764,-79.876149163"
+  },
+  {
+    "nombre": "tiabella",
+    "ubicación": "-2.1804498919,-79.9108214957"
+  },
+  {
+    "nombre": "tmarengo",
+    "ubicación": "-2.141831423,-79.925858439"
+  },
+  {
+    "nombre": "tmartinez",
+    "ubicación": "-2.1871564056,-79.8812513251"
+  },
+  {
+    "nombre": "tomala",
+    "ubicación": "-2.2775007258,-79.894238839"
+  },
+  {
+    "nombre": "tosagua",
+    "ubicación": "-0.8330873671,-80.2131448196"
+  },
+  {
+    "nombre": "tosaguacity",
+    "ubicación": "-0.7868865891,-80.2333020441"
+  },
+  {
+    "nombre": "totem",
+    "ubicación": "-2.1831820399,-79.8977007488"
+  },
+  {
+    "nombre": "totoracocha",
+    "ubicación": "-2.8989677086,-78.9819716747"
+  },
+  {
+    "nombre": "transelectric",
+    "ubicación": "-2.154715296,-79.8994270852"
+  },
+  {
+    "nombre": "transelectric",
+    "ubicación": "-1.0735526538,-80.4307039599"
+  },
+  {
+    "nombre": "trimerc25",
+    "ubicación": "-2.2279469714,-79.929519176"
+  },
+  {
+    "nombre": "trimercard",
+    "ubicación": "-2.2291601516,-79.9337451526"
+  },
+  {
+    "nombre": "trinieste",
+    "ubicación": "-2.2393609122,-79.9187843232"
+  },
+  {
+    "nombre": "trinieste2",
+    "ubicación": "-2.2444706315,-79.9188850023"
+  },
+  {
+    "nombre": "trininorte",
+    "ubicación": "-2.2302776,-79.921162"
+  },
+  {
+    "nombre": "triniport",
+    "ubicación": "-2.2497972065,-79.9246722448"
+  },
+  {
+    "nombre": "triniport2",
+    "ubicación": "-2.2449910161,-79.9259059349"
+  },
+  {
+    "nombre": "trinitaria",
+    "ubicación": "-2.2386891094,-79.9262639493"
+  },
+  {
+    "nombre": "trinitariase",
+    "ubicación": "-2.241552778,-79.929294444"
+  },
+  {
+    "nombre": "triunfocen",
+    "ubicación": "-2.3315618592,-79.4018579381"
+  },
+  {
+    "nombre": "triunfocen2",
+    "ubicación": "-2.3262368791,-79.4086792915"
+  },
+  {
+    "nombre": "triunfoeste",
+    "ubicación": "-2.3337665912,-79.3948270533"
+  },
+  {
+    "nombre": "troncalcity",
+    "ubicación": "-2.426469964,-79.3370820795"
+  },
+  {
+    "nombre": "troncaleste",
+    "ubicación": "-2.4324283545,-79.3339045868"
+  },
+  {
+    "nombre": "troncalsur",
+    "ubicación": "-2.4306261907,-79.3499031367"
+  },
+  {
+    "nombre": "turibajo",
+    "ubicación": "-2.9192917276,-79.0097866496"
+  },
+  {
+    "nombre": "ubananeros",
+    "ubicación": "-2.2686403288,-79.8806170977"
+  },
+  {
+    "nombre": "uess",
+    "ubicación": "-2.132505946,-79.8662333408"
+  },
+  {
+    "nombre": "uestatal",
+    "ubicación": "-2.1791917258,-79.899081427"
+  },
+  {
+    "nombre": "umina",
+    "ubicación": "-0.9474739906,-80.7346921235"
+  },
+  {
+    "nombre": "unamuno",
+    "ubicación": "-2.201334016,-79.8990398797"
+  },
+  {
+    "nombre": "unecuenca",
+    "ubicación": "-2.893863829,-78.9790443215"
+  },
+  {
+    "nombre": "unesum",
+    "ubicación": "-1.3457543614,-80.5666525129"
+  },
+  {
+    "nombre": "unicentro",
+    "ubicación": "-2.1926878821,-79.882076628"
+  },
+  {
+    "nombre": "unionalta",
+    "ubicación": "-2.9143420729,-79.0560783203"
+  },
+  {
+    "nombre": "unipark",
+    "ubicación": "-2.1941058999,-79.88307585"
+  },
+  {
+    "nombre": "unsolotoque",
+    "ubicación": "-2.1721036543,-79.8000460632"
+  },
+  {
+    "nombre": "upse",
+    "ubicación": "-2.2295882907,-80.8777776475"
+  },
+  {
+    "nombre": "urbirios1",
+    "ubicación": "-0.985081323,-80.7246064504"
+  },
+  {
+    "nombre": "urbirios2",
+    "ubicación": "-1.0009348454,-80.7294125824"
+  },
+  {
+    "nombre": "urdaneta",
+    "ubicación": "-2.1937856094,-79.9036398921"
+  },
+  {
+    "nombre": "urdenor",
+    "ubicación": "-2.1493415203,-79.9055151892"
+  },
+  {
+    "nombre": "urdesa",
+    "ubicación": "-2.1654092173,-79.9086726616"
+  },
+  {
+    "nombre": "urdesa3",
+    "ubicación": "-2.157722904,-79.904366845"
+  },
+  {
+    "nombre": "usm",
+    "ubicación": "-2.1653598233,-79.9234041003"
+  },
+  {
+    "nombre": "ustoqnew",
+    "ubicación": "-2.1768146718,-79.8073271568"
+  },
+  {
+    "nombre": "valdivia",
+    "ubicación": "-1.9436407201,-80.7188959287"
+  },
+  {
+    "nombre": "valencia",
+    "ubicación": "-0.9553914981,-79.3524294954"
+  },
+  {
+    "nombre": "valenzuel",
+    "ubicación": "-2.198027339,-79.9081369489"
+  },
+  {
+    "nombre": "valla_el dorado",
+    "ubicación": "-2.0596900894,-79.8718170858"
+  },
+  {
+    "nombre": "valla_psamanes",
+    "ubicación": "-2.0983959618,-79.8909407768"
+  },
+  {
+    "nombre": "valla_vergels",
+    "ubicación": "-2.0784228064,-79.8959755371"
+  },
+  {
+    "nombre": "vallealto",
+    "ubicación": "-2.1903494303,-80.0136656608"
+  },
+  {
+    "nombre": "valleazuay",
+    "ubicación": "-2.9329833551,-78.9714983052"
+  },
+  {
+    "nombre": "velascoib",
+    "ubicación": "-2.1839593903,-79.9116691139"
+  },
+  {
+    "nombre": "velez",
+    "ubicación": "-2.1912893253,-79.8873084594"
+  },
+  {
+    "nombre": "venecia",
+    "ubicación": "-2.2290688496,-79.9040468144"
+  },
+  {
+    "nombre": "veneguaya",
+    "ubicación": "-2.200494853,-79.8897644913"
+  },
+  {
+    "nombre": "ventanacity",
+    "ubicación": "-1.442408808,-79.4592615511"
+  },
+  {
+    "nombre": "ventanacity",
+    "ubicación": "-1.442408808,-79.4592615511"
+  },
+  {
+    "nombre": "ventanas",
+    "ubicación": "-1.4470953463,-79.4645849354"
+  },
+  {
+    "nombre": "ventanas",
+    "ubicación": "-1.4470953463,-79.4645849354"
+  },
+  {
+    "nombre": "ventanas2",
+    "ubicación": "-1.4433717248,-79.4645742483"
+  },
+  {
+    "nombre": "ventanas2",
+    "ubicación": "-1.4433717248,-79.4645742483"
+  },
+  {
+    "nombre": "ventanasnew",
+    "ubicación": "-1.4349906777,-79.4634722721"
+  },
+  {
+    "nombre": "ventanasnew",
+    "ubicación": "-1.4349906777,-79.4634722721"
+  },
+  {
+    "nombre": "vergelcen",
+    "ubicación": "-2.0920858434,-79.9063723247"
+  },
+  {
+    "nombre": "vergelnor",
+    "ubicación": "-2.0844105712,-79.8997907455"
+  },
+  {
+    "nombre": "vergelnor2",
+    "ubicación": "-2.0877994838,-79.9030831542"
+  },
+  {
+    "nombre": "vernaza",
+    "ubicación": "-1.76624441,-79.7896016267"
+  },
+  {
+    "nombre": "vernazanor",
+    "ubicación": "-2.1529949638,-79.89209441"
+  },
+  {
+    "nombre": "via_al_sol",
+    "ubicación": "-2.1822441778,-79.9973189593"
+  },
+  {
+    "nombre": "viacatamayo",
+    "ubicación": "-3.9788342093,-79.2861002004"
+  },
+  {
+    "nombre": "viaterpas",
+    "ubicación": "-2.125079017,-79.883879227"
+  },
+  {
+    "nombre": "vicportete",
+    "ubicación": "-3.0764774954,-79.0679001463"
+  },
+  {
+    "nombre": "victoria",
+    "ubicación": "-2.1924052464,-79.8892987872"
+  },
+  {
+    "nombre": "viejakennedy",
+    "ubicación": "-2.1748728477,-79.9002768646"
+  },
+  {
+    "nombre": "vilcabamba",
+    "ubicación": "-4.2535873308,-79.2241819644"
+  },
+  {
+    "nombre": "villabonita",
+    "ubicación": "-2.0547035213,-79.9924035809"
+  },
+  {
+    "nombre": "villadelrey",
+    "ubicación": "-2.0194328718,-79.9171831874"
+  },
+  {
+    "nombre": "villaespaña",
+    "ubicación": "-2.0809901469,-79.9213967501"
+  },
+  {
+    "nombre": "village",
+    "ubicación": "-2.1398072355,-79.8643879258"
+  },
+  {
+    "nombre": "villasdelre2",
+    "ubicación": "-2.0357697647,-79.9131838627"
+  },
+  {
+    "nombre": "villingota",
+    "ubicación": "-2.3663498017,-80.4818776263"
+  },
+  {
+    "nombre": "vinces",
+    "ubicación": "-1.5583803845,-79.7553735405"
+  },
+  {
+    "nombre": "vinces",
+    "ubicación": "-1.5583803845,-79.7553735405"
+  },
+  {
+    "nombre": "vinces2",
+    "ubicación": "-1.5644167,-79.751778"
+  },
+  {
+    "nombre": "vinces2",
+    "ubicación": "-1.5644167,-79.751778"
+  },
+  {
+    "nombre": "vincesnorte",
+    "ubicación": "-1.5547964327,-79.7492067178"
+  },
+  {
+    "nombre": "vincesnorte",
+    "ubicación": "-1.5547964327,-79.7492067178"
+  },
+  {
+    "nombre": "virgendel26",
+    "ubicación": "-2.248561563,-79.6466869978"
+  },
+  {
+    "nombre": "vistaalrio",
+    "ubicación": "-2.1432217904,-79.8682653068"
+  },
+  {
+    "nombre": "vistaalrio_remotizacion_nap#1",
+    "ubicación": "-2.1445070602,-79.8693832934"
+  },
+  {
+    "nombre": "vistaalrio_remotizacion_nap#2",
+    "ubicación": "-2.1452498192,-79.8707763922"
+  },
+  {
+    "nombre": "vistalmar",
+    "ubicación": "-0.9445564428,-80.7387004947"
+  },
+  {
+    "nombre": "vistazo",
+    "ubicación": "-2.1928711015,-79.8852417375"
+  },
+  {
+    "nombre": "voluntaddedios",
+    "ubicación": "-2.1284544626,-80.0155564045"
+  },
+  {
+    "nombre": "vpbolivar",
+    "ubicación": "-3.2546799345,-79.9828164965"
+  },
+  {
+    "nombre": "wtc",
+    "ubicación": "-2.1641878139,-79.8975439947"
+  },
+  {
+    "nombre": "wyndham",
+    "ubicación": "-2.1792000659,-79.8759049614"
+  },
+  {
+    "nombre": "yaguachi",
+    "ubicación": "-2.0922794779,-79.6976868569"
+  },
+  {
+    "nombre": "yaguachicity",
+    "ubicación": "-2.0963780873,-79.6915880336"
+  },
+  {
+    "nombre": "yaguadu",
+    "ubicación": "-2.1317244888,-79.7527867135"
+  },
+  {
+    "nombre": "yaguadu",
+    "ubicación": "-2.1317244888,-79.7527867135"
+  },
+  {
+    "nombre": "yaguasur",
+    "ubicación": "-2.101438997,-79.6917577572"
+  },
+  {
+    "nombre": "yantzazacen",
+    "ubicación": "-3.8335888789,-78.7619335146"
+  },
+  {
+    "nombre": "yanuncay",
+    "ubicación": "-2.9175864762,-79.0328847851"
+  },
+  {
+    "nombre": "yatchclub",
+    "ubicación": "-2.2020334532,-80.9764904848"
+  },
+  {
+    "nombre": "yunguilla",
+    "ubicación": "-3.2541888277,-79.2351276511"
+  },
+  {
+    "nombre": "zamoracen",
+    "ubicación": "-4.0676310297,-78.9535932365"
+  },
+  {
+    "nombre": "zamoracolina",
+    "ubicación": "-4.054500145,-78.93770177"
+  },
+  {
+    "nombre": "zapotal",
+    "ubicación": "-1.3511820179,-79.4165315437"
+  },
+  {
+    "nombre": "zapotal",
+    "ubicación": "-1.3511820179,-79.4165315437"
+  },
+  {
+    "nombre": "zaruma",
+    "ubicación": "-3.6910746055,-79.6103215163"
+  },
+  {
+    "nombre": "zarumaoeste",
+    "ubicación": "-3.6874785533,-79.6175946187"
+  },
+  {
+    "nombre": "zarumasur",
+    "ubicación": "-3.6933979429,-79.6143682326"
+  },
+  {
+    "nombre": "zhud",
+    "ubicación": "-2.4611431511,-79.0062357216"
+  },
+  {
+    "nombre": "zhullin",
+    "ubicación": "-2.8187167981,-78.8864509144"
+  },
+  {
+    "nombre": "zonafranca",
+    "ubicación": "-2.9997965942,-79.0383958012"
+  },
+  {
+    "nombre": "zonaindgye2",
+    "ubicación": "-2.0525531825,-79.956152326"
+  }
+]
